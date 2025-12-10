@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import urllib.request
 
 # ŹRÓDŁO — Twój oryginalny XML
-SOURCE_URL = os.getenv("SOURCE_URL", "https://TUTAJ-WSTAW-SWOJ-XML")  
+SOURCE_URL = os.getenv("SOURCE_URL", "https://kompre.esolu-hub.pl/storage/feeds/kompre.xml")  
 
 # NAZWA WYJŚCIOWEGO PLIKU
 OUT_FILE = "ceneo.xml"
