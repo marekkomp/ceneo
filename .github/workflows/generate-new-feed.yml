@@ -2,7 +2,7 @@ name: Generate ceneo.xml (new-only feed)
 
 on:
   schedule:
-    # codziennie 01:00 UTC → w PL 02:00–03:00
+    # codziennie o 01:00 UTC (w PL 02:00/03:00)
     - cron: "0 1 * * *"
   workflow_dispatch: {}
 
@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate ceneo.xml
         env:
-          SOURCE_URL: "https://TWOJ-ORYGINALNY-XML"   # <--- PODMIEŃ NA REALNY FEED
+          SOURCE_URL: "https://kompre.esolu-hub.pl/storage/feeds/kompre.xml"
         run: |
           python filter_new_offers.py
 
