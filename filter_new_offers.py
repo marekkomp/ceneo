@@ -2,9 +2,11 @@ import os
 import xml.etree.ElementTree as ET
 import urllib.request
 
-# --- USTAWIENIA ---
-SOURCE_URL = os.getenv("SOURCE_URL", "https://TWOJ-XML")  # podmień na swój domyślny
-OUT_FILE = "kompre_new.xml"
+# ŹRÓDŁO — Twój oryginalny XML
+SOURCE_URL = os.getenv("SOURCE_URL", "https://TUTAJ-WSTAW-SWOJ-XML")  
+
+# NAZWA WYJŚCIOWEGO PLIKU
+OUT_FILE = "ceneo.xml"
 
 KEYWORDS = ["nowy", "fabrycznie nowy"]
 
@@ -17,27 +19,29 @@ def is_new_offer(offer: ET.Element) -> bool:
     if name_el is not None and name_el.text:
         texts.append(name_el.text.lower())
 
-    # <attrs><a ...>
+    # <attrs><a name="Model|Rodzaj|Kondycja">
     attrs_el = offer.find("attrs")
     if attrs_el is not None:
         for a in attrs_el.findall("a"):
-            attr_name = (a.get("name") or "").strip()
-            if attr_name in ("Model", "Rodzaj", "Kondycja"):
+            attr_name = (a.get("name") or "").strip().lower()
+            if attr_name in ("model", "rodzaj", "kondycja"):
                 if a.text:
                     texts.append(a.text.lower())
 
     joined = " ".join(texts)
-    return any(kw in joined for kw in KEYWORDS)
+    return any(k in joined for k in KEYWORDS)
 
 
 def main():
+    # pobranie XML
     with urllib.request.urlopen(SOURCE_URL) as f:
         tree = ET.parse(f)
 
     root = tree.getroot()
     offers = list(root.findall("o"))
 
-    kept = removed = 0
+    kept, removed = 0, 0
+
     for o in offers:
         if is_new_offer(o):
             kept += 1
@@ -46,6 +50,7 @@ def main():
             removed += 1
 
     print(f"Pozostawiono ofert: {kept}, usunięto: {removed}")
+
     tree.write(OUT_FILE, encoding="utf-8", xml_declaration=True)
 
 
