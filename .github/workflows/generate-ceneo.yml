@@ -1,0 +1,39 @@
+name: Generate ceneo.xml (new-only feed)
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate ceneo.xml
+        env:
+          SOURCE_URL: "https://kompre.esolu-hub.pl/storage/feeds/kompre.xml"
+        run: |
+          python filter_new_offers.py
+
+      - name: Commit and push changes
+        run: |
+          if git status --porcelain | grep "ceneo.xml"; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add ceneo.xml
+            git commit -m "Auto-update ceneo.xml (new-only feed)"
+            git push
+          else
+            echo "Brak zmian — nic nie commituję."
