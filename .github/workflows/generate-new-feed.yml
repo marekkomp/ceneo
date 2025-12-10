@@ -1,8 +1,8 @@
-name: Generate "new only" XML feed
+name: Generate ceneo.xml (new-only feed)
 
 on:
   schedule:
-    # 01:00 UTC codziennie (w PL to 2:00 lub 3:00 w zależności od czasu letniego)
+    # codziennie 01:00 UTC → w PL 02:00–03:00
     - cron: "0 1 * * *"
   workflow_dispatch: {}
 
@@ -22,27 +22,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies (if requirements.txt exists)
-        run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            echo "No requirements.txt, skipping."
-          fi
-
-      - name: Generate new-only XML
+      - name: Generate ceneo.xml
         env:
-          SOURCE_URL: "https://TWÓJ-ORYGINALNY-XML"   # <--- PODMIEŃ
+          SOURCE_URL: "https://TWOJ-ORYGINALNY-XML"   # <--- PODMIEŃ NA REALNY FEED
         run: |
           python filter_new_offers.py
 
       - name: Commit and push changes
         run: |
-          if git status --porcelain | grep "kompre_new.xml"; then
+          if git status --porcelain | grep "ceneo.xml"; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add kompre_new.xml
-            git commit -m "Auto update new-only XML feed"
+            git add ceneo.xml
+            git commit -m "Auto-update ceneo.xml (new-only feed)"
             git push
           else
-            echo "Brak zmian w kompre_new.xml – nie commituję."
+            echo "Brak zmian — nic nie commituję."
