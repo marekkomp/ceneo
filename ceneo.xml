@@ -6680,7 +6680,7 @@
       <a name="Ilość rdzeni">6</a>
       <a name="Informacje dodatkowe">I5-10400F 6X4.3GHz</a>
       <a name="Kondycja">Nowy</a>
-      <a name="Licencja">Windows 11 Pro</a>
+      <a name="Licencja">Windows 11 Home</a>
       <a name="Model karty graficznej">NOWA GeForce RTX 3050 8GB</a>
       <a name="Napęd">Beznapędowy</a>
       <a name="Obudowa">Tower</a>
@@ -6691,7 +6691,7 @@
       <a name="Typ Licencji">OEM</a>
       <a name="Typ pamięci RAM">DDR4</a>
       <a name="W zestawie">Brak okablowania</a>
-      <a name="Zainstalowany System">Windows 11 Professional</a>
+      <a name="Zainstalowany System">Windows 11 HOME</a>
       <a name="Złącza wewnętrzne">3xSATA, 2xRAM, 1xPCIex1, 2xPCIex16, M.2</a>
       <a name="Złącza z tyłu">6xUSB 3.0, 2x USB 2.0, VGA, 3x Audio, RJ45, 2x PS2, DISPLAY PORT, HDMI</a>
     </attrs>
@@ -7672,7 +7672,7 @@
       <a name="Typ">Optyczna</a>
     </attrs>
   </o>
-  <o id="7286" url="https://kompre.pl/pl/p/Mysz-DELL-MS116MS-116/7286" price="32" avail="1" stock="157" basket="1">
+  <o id="7286" url="https://kompre.pl/pl/p/Mysz-DELL-MS116MS-116/7286" price="32" avail="1" stock="156" basket="1">
     <cat>Akcesoria komputerowe</cat>
     <name>Mysz DELL MS116/MS-116</name>
     <desc>"Mysz DELL MS116/MS-116" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -8813,7 +8813,7 @@
       <a name="Ilość rdzeni">6</a>
       <a name="Informacje dodatkowe">I5-12400F 6X4.40GHz</a>
       <a name="Kondycja">Nowy</a>
-      <a name="Licencja">Windows 11 Pro</a>
+      <a name="Licencja">Windows 11 Home</a>
       <a name="Model">Logic </a>
       <a name="Model karty graficznej">NOWA GeForce RTX 3050 8GB</a>
       <a name="Napęd">Beznapędowy</a>
@@ -8825,7 +8825,7 @@
       <a name="Typ Licencji">OEM</a>
       <a name="Typ pamięci RAM">DDR4</a>
       <a name="W zestawie">Brak okablowania</a>
-      <a name="Zainstalowany System">Windows 11 Professional</a>
+      <a name="Zainstalowany System">Windows 11 HOME</a>
       <a name="Złącza wewnętrzne">3xSATA, 2xRAM, 1xPCIex1, 2xPCIex16, M.2</a>
       <a name="Złącza z tyłu">2xUSB 3.0, 4x USB 2.0, VGA, 3x Audio, RJ45, PS2, HDMI</a>
     </attrs>
@@ -8850,7 +8850,7 @@
       <a name="Ilość pamięci RAM">32GB</a>
       <a name="Ilość rdzeni">4</a>
       <a name="Kondycja">Nowy</a>
-      <a name="Licencja">Windows 10 Professional</a>
+      <a name="Licencja">Windows 11 Home</a>
       <a name="Model karty graficznej">NVIDIA QUADRO K2200 4GB DDR5</a>
       <a name="Napęd">Beznapędowy</a>
       <a name="Obudowa">Tower</a>
@@ -8863,7 +8863,7 @@
       <a name="Typ Licencji">OEM</a>
       <a name="Typ pamięci RAM">DDR4</a>
       <a name="W zestawie">Brak okablowania</a>
-      <a name="Zainstalowany System">Windows 10 Professional</a>
+      <a name="Zainstalowany System">Windows 11 HOME</a>
       <a name="Złącza wewnętrzne">4xSATA, 4xRAM, 1xPCIex1, 2xPCIex16, M.2</a>
       <a name="Złącza z tyłu">VGA (HDMI/DISPLAY PORT) PS2, USB 3.0, 2x USB 2.0, RJ45, złącza AUDIO</a>
     </attrs>
@@ -15250,7 +15250,7 @@
       <a name="Ilość rdzeni">6</a>
       <a name="Informacje dodatkowe">I5-14400F 6X4.70GHz</a>
       <a name="Kondycja">Nowy</a>
-      <a name="Licencja">Windows 11 Pro</a>
+      <a name="Licencja">Windows 11 Home</a>
       <a name="Model">Logic </a>
       <a name="Model karty graficznej">NOWA GeForce RTX 4060 8GB</a>
       <a name="Napęd">Beznapędowy</a>
@@ -15262,7 +15262,7 @@
       <a name="Typ Licencji">OEM</a>
       <a name="Typ pamięci RAM">DDR4</a>
       <a name="W zestawie">Brak okablowania</a>
-      <a name="Zainstalowany System">Windows 11 Professional</a>
+      <a name="Zainstalowany System">Windows 11 HOME</a>
       <a name="Złącza wewnętrzne">3xSATA, 2xRAM, 1xPCIex1, 2xPCIex16, M.2</a>
       <a name="Złącza z tyłu">2xUSB 3.0, 4x USB 2.0, VGA, 3x Audio, RJ45, PS2, HDMI</a>
     </attrs>
@@ -15820,7 +15820,7 @@
       <a name="Złącza zewnętrzne">AC-in (wejście zasilania) - 1 szt., DisplayPort 1.2 - 2 szt., HDMI 1.4 - 1 szt., VGA - 1 szt.</a>
     </attrs>
   </o>
-  <o id="10150" url="https://kompre.pl/pl/p/Monitor-LED-Philips-243V7QDAB00-23%2C8-1920x1080-px-IPS-GLOSNIKI-HDMI-VGA-Nowy-/10150" price="319" avail="1" stock="25" basket="1">
+  <o id="10150" url="https://kompre.pl/pl/p/Monitor-LED-Philips-243V7QDAB00-23%2C8-1920x1080-px-IPS-GLOSNIKI-HDMI-VGA-Nowy-/10150" price="389" avail="1" stock="25" basket="1">
     <cat>Monitory</cat>
     <name>Monitor LED Philips 243V7QDAB/00 23,8" 1920x1080 px IPS GŁOŚNIKI HDMI VGA [Nowy] </name>
     <desc>"Monitor LED Philips 243V7QDAB/00 23,8" 1920x1080 px IPS GŁOŚNIKI HDMI VGA [Nowy] " Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
