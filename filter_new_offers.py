@@ -17,7 +17,7 @@ GOOD_PATTERNS = [
     r"\bzupelnie nowy\b",
 ]
 
-# Frazy, które ZAWSZE mają blokować
+# Frazy, które ZAWSZE blokują
 BAD_PATTERNS = [
     r"powystawowy",
     r"magazynowy",
@@ -32,16 +32,15 @@ BAD_PATTERNS = [
 
 
 def is_new_offer(offer: ET.Element) -> bool:
-    """Zwraca True tylko jeśli produkt jest faktycznie NOWY."""
-
+    """Zwraca True tylko jeśli produkt jest faktycznie NOWY na podstawie name + attrs."""
     texts = []
 
-    # 1. <name>
+    # <name>
     name_el = offer.find("name")
     if name_el is not None and name_el.text:
         texts.append(name_el.text.lower())
 
-    # 2. <attrs><a name="Model/Rodzaj/Kondycja">
+    # <attrs><a ...>
     attrs_el = offer.find("attrs")
     if attrs_el is not None:
         for a in attrs_el.findall("a"):
@@ -52,12 +51,12 @@ def is_new_offer(offer: ET.Element) -> bool:
 
     text = " ".join(texts)
 
-    # Najpierw ODRZUĆ jeśli widać cechę nie-nowego
+    # Jeśli zła fraza → odrzuć
     for bad in BAD_PATTERNS:
         if re.search(bad, text):
             return False
 
-    # Potem sprawdź poprawne frazy NOWY
+    # Jeśli dobra fraza → akceptuj
     for good in GOOD_PATTERNS:
         if re.search(good, text):
             return True
@@ -66,7 +65,7 @@ def is_new_offer(offer: ET.Element) -> bool:
 
 
 def main():
-    # Pobranie źródłowego XML
+    # Pobranie XML
     with urllib.request.urlopen(SOURCE_URL) as f:
         tree = ET.parse(f)
 
@@ -76,9 +75,21 @@ def main():
     kept = 0
     removed = 0
 
-    # Filtrowanie ofert
     for o in offers:
-        if is_new_offer(o):
+        # ---- filtr dostępności ----
+        stock_raw = o.get("stock")
+        avail_raw = o.get("avail")
+
+        try:
+            stock_val = int(stock_raw) if stock_raw is not None else 0
+        except ValueError:
+            stock_val = 0
+
+        is_available = (stock_val > 0) and (avail_raw == "1")
+        # ----------------------------
+
+        # Zostają tylko NOWE + dostępne
+        if is_available and is_new_offer(o):
             kept += 1
         else:
             root.remove(o)
@@ -86,7 +97,7 @@ def main():
 
     print(f"Pozostawiono ofert: {kept}, usunięto: {removed}")
 
-    # Zapis nowego XML
+    # Zapis pliku
     tree.write(OUT_FILE, encoding="utf-8", xml_declaration=True)
 
 
