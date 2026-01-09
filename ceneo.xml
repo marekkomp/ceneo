@@ -997,7 +997,7 @@
       <a name="Typ">Wewnętrzny</a>
     </attrs>
   </o>
-  <o id="7426" url="https://kompre.pl/pl/p/Torba-Esperanza-Classic/7426" price="30" avail="1" stock="16" basket="1">
+  <o id="7426" url="https://kompre.pl/pl/p/Torba-Esperanza-Classic/7426" price="30" avail="1" stock="15" basket="1">
     <cat>Torby na laptopa</cat>
     <name>Torba Esperanza Classic</name>
     <desc>"Torba Esperanza Classic" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1294,6 +1294,25 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
+  <o id="9472" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-5280-5480-5490-5590-GJKNX/9472" price="140" avail="1" stock="59" basket="1">
+    <cat>Baterie do laptopów</cat>
+    <name>Bateria do Dell Latitude 5280 5480 5490 5590 | GJKNX</name>
+    <desc>"Bateria do Dell Latitude 5280 5480 5490 5590 | GJKNX" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97411.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97412.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97413.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97414.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">DELL</a>
+      <a name="SKU">14795052809</a>
+      <a name="Gwarancja">6 miesięcy</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Napięcie">7.6</a>
+      <a name="Rodzaj">zamiennik</a>
+    </attrs>
+  </o>
   <o id="9473" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-E7270-E7470-J60J5/9473" price="149" avail="1" stock="9" basket="1">
     <cat>Baterie do laptopów</cat>
     <name>Bateria do Dell Latitude E7270 E7470 | J60J5</name>
@@ -1348,24 +1367,6 @@
       <a name="SKU">16999071675</a>
       <a name="Gwarancja">6 miesięcy</a>
       <a name="Kondycja">Nowy</a>
-      <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
-  <o id="9477" url="https://kompre.pl/pl/p/Nowa-Bateria-do-Dell-Latitude-E5430-E6430-E6440-E6540-T54FJ/9477" price="119" avail="1" stock="2" basket="1">
-    <cat>Baterie do laptopów</cat>
-    <name>Nowa Bateria do Dell Latitude E5430 E6430 E6440 E6540 | T54FJ</name>
-    <desc>"Nowa Bateria do Dell Latitude E5430 E6430 E6440 E6540 | T54FJ" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97430.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97431.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97432.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">14033886910</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Napięcie">11.1</a>
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
@@ -1562,7 +1563,7 @@
       <a name="Przeznaczenie">Dell</a>
     </attrs>
   </o>
-  <o id="9491" url="https://kompre.pl/pl/p/Matryca-14-FHD-IPS-30pin-N140HCE-G52-Dell-Latitude-7480-7490/9491" price="233" avail="1" stock="19" basket="1">
+  <o id="9491" url="https://kompre.pl/pl/p/Matryca-14-FHD-IPS-30pin-N140HCE-G52-Dell-Latitude-7480-7490/9491" price="233" avail="1" stock="18" basket="1">
     <cat>Matryce do laptopów</cat>
     <name>Matryca 14" FHD IPS 30pin N140HCE-G52 | Dell Latitude 7480 7490</name>
     <desc>"Matryca 14" FHD IPS 30pin N140HCE-G52 | Dell Latitude 7480 7490" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -3161,7 +3162,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9631" url="https://kompre.pl/pl/p/Nowa-Bateria-do-HP-EliteBook-840-850-G3-CS03XL/9631" price="127" avail="1" stock="31" basket="1">
+  <o id="9631" url="https://kompre.pl/pl/p/Nowa-Bateria-do-HP-EliteBook-840-850-G3-CS03XL/9631" price="127" avail="1" stock="5" basket="1">
     <cat>Baterie do laptopów</cat>
     <name>Nowa Bateria do HP EliteBook 840 850 G3 | CS03XL</name>
     <desc>"Nowa Bateria do HP EliteBook 840 850 G3 | CS03XL" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -5785,7 +5786,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9847" url="https://kompre.pl/pl/p/Nowy-Zasilacz-Lenovo-USB-C-95W/9847" price="139" avail="1" stock="56" basket="1">
+  <o id="9847" url="https://kompre.pl/pl/p/Nowy-Zasilacz-Lenovo-USB-C-95W/9847" price="139" avail="1" stock="55" basket="1">
     <cat>Zasilacze do laptopów</cat>
     <name>Nowy Zasilacz Lenovo USB-C 95W</name>
     <desc>"Nowy Zasilacz Lenovo USB-C 95W" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
