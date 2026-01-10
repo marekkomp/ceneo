@@ -1256,7 +1256,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9469" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-5300-7300-7400-5310-MXV9V/9469" price="149" avail="1" stock="14" basket="1">
+  <o id="9469" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-5300-7300-7400-5310-MXV9V/9469" price="149" avail="1" stock="13" basket="1">
     <cat>Baterie do laptopów</cat>
     <name>Bateria do Dell Latitude 5300 7300 7400 5310 | MXV9V</name>
     <desc>"Bateria do Dell Latitude 5300 7300 7400 5310 | MXV9V" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1820,22 +1820,6 @@
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
-  <o id="9514" url="https://kompre.pl/pl/p/Ramka-Matrycy-do-Dell-Latitude-E7470/9514" price="69" avail="1" stock="10" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Ramka Matrycy do Dell Latitude E7470</name>
-    <desc>"Ramka Matrycy do Dell Latitude E7470" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97565.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97566.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97567.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">14213580679</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
   <o id="9515" url="https://kompre.pl/pl/p/Nowa-Ramka-Matrycy-Dell-Latitude-7480/9515" price="45" avail="1" stock="129" basket="1">
