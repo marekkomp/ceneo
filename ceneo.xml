@@ -958,7 +958,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="7373" url="https://kompre.pl/pl/p/Mysz-Esperanza-Maverick/7373" price="27" avail="1" stock="94" basket="1">
+  <o id="7373" url="https://kompre.pl/pl/p/Mysz-Esperanza-Maverick/7373" price="27" avail="1" stock="93" basket="1">
     <cat>Akcesoria komputerowe</cat>
     <name>Mysz Esperanza Maverick</name>
     <desc>"Mysz Esperanza Maverick" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1525,7 +1525,7 @@
       <a name="Przeznaczenie">Dell</a>
     </attrs>
   </o>
-  <o id="9491" url="https://kompre.pl/pl/p/Matryca-14-FHD-IPS-30pin-N140HCE-G52-Dell-Latitude-7480-7490/9491" price="233" avail="1" stock="18" basket="1">
+  <o id="9491" url="https://kompre.pl/pl/p/Matryca-14-FHD-IPS-30pin-N140HCE-G52-Dell-Latitude-7480-7490/9491" price="233" avail="1" stock="17" basket="1">
     <cat>Matryce do laptopów</cat>
     <name>Matryca 14" FHD IPS 30pin N140HCE-G52 | Dell Latitude 7480 7490</name>
     <desc>"Matryca 14" FHD IPS 30pin N140HCE-G52 | Dell Latitude 7480 7490" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -2068,26 +2068,6 @@
       <a name="SKU">15154395063</a>
       <a name="Gwarancja">6 miesięcy</a>
       <a name="Kondycja">Nowy</a>
-    </attrs>
-  </o>
-  <o id="9533" url="https://kompre.pl/pl/p/Nowy-Palmrest-do-Dell-Latitude-5580-5590-A174PD/9533" price="125" avail="1" stock="48" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Nowy Palmrest do Dell Latitude 5580 5590 | A174PD</name>
-    <desc>"Nowy Palmrest do Dell Latitude 5580 5590 | A174PD" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97632.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97633.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97634.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97635.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97636.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97637.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">15327775063</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
   <o id="9534" url="https://kompre.pl/pl/p/Nowa-Ramka-Matrycy-Dell-E5520-Kamera/9534" price="40" avail="1" stock="6" basket="1">
@@ -6300,7 +6280,7 @@
       <a name="Złącza zewnętrzne">Złącza: AC-in (wejście zasilania) - 1 szt., DisplayPort 1.2 - 1 szt., HDMI 1.4 - 1 szt., USB 3.2 Gen. 1 - 3 szt., USB 3.2 Gen. 1 Typu-B - 1 szt., USB Type-C 3.2 Gen. 1 (z Power Delivery) - 1 szt., VGA - 1 szt.</a>
     </attrs>
   </o>
-  <o id="10059" url="https://kompre.pl/pl/p/Monitor-Dell-E2425HS-23%2C8-LED-1920-x-1080-VA-HDMI%2C-DP%2C-VGA-Nowy/10059" price="399" avail="1" stock="45" basket="1">
+  <o id="10059" url="https://kompre.pl/pl/p/Monitor-Dell-E2425HS-23%2C8-LED-1920-x-1080-VA-HDMI%2C-DP%2C-VGA-Nowy/10059" price="399" avail="1" stock="44" basket="1">
     <cat>Monitory</cat>
     <name>Monitor Dell E2425HS 23,8'' LED 1920 x 1080 VA | HDMI, DP, VGA | [Nowy]</name>
     <desc>"Monitor Dell E2425HS 23,8'' LED 1920 x 1080 VA | HDMI, DP, VGA | [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
