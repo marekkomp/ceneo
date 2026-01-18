@@ -6631,10 +6631,10 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="10149" url="https://kompre.pl/pl/p/Monitor-LED-Dell-E2225HSM-21%2C5-1920-x-1080-px-VA-HDMI-DISPLAYPORT-100Hz-Nowy-/10149" price="395" avail="1" stock="19" basket="1">
+  <o id="10149" url="https://kompre.pl/pl/p/Monitor-LED-Dell-E2225HSM-21%2C5-1920-x-1080-px-VA-HDMI-DISPLAYPORT-100Hz-Glosniki-Nowy-/10149" price="395" avail="1" stock="19" basket="1">
     <cat>Monitory</cat>
-    <name>Monitor LED Dell E2225HSM 21,5 " 1920 x 1080 px VA HDMI DISPLAYPORT 100Hz [Nowy] </name>
-    <desc>"Monitor LED Dell E2225HSM 21,5 " 1920 x 1080 px VA HDMI DISPLAYPORT 100Hz [Nowy] " Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <name>Monitor LED Dell E2225HSM 21,5 " 1920 x 1080 px VA HDMI DISPLAYPORT 100Hz Głośniki [Nowy] </name>
+    <desc>"Monitor LED Dell E2225HSM 21,5 " 1920 x 1080 px VA HDMI DISPLAYPORT 100Hz Głośniki [Nowy] " Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
     <imgs>
       <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/101701.jpg" />
       <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/101702.jpg" />
@@ -6662,7 +6662,7 @@
       <a name="Stopa w komplecie">Tak</a>
       <a name="Typ matrycy">IPS / PLS</a>
       <a name="W zestawie">Przewód zasilający</a>
-      <a name="Wbudowany głośnik">nie</a>
+      <a name="Wbudowany głośnik">Tak</a>
       <a name="Złącza zewnętrzne">AC-in (wejście zasilania) - 1 szt., DisplayPort 1.2 - 2 szt., HDMI 1.4 - 1 szt., VGA - 1 szt.</a>
     </attrs>
   </o>
