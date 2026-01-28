@@ -811,7 +811,7 @@
       <a name="Rodzaj">internetowa</a>
     </attrs>
   </o>
-  <o id="7286" url="https://kompre.pl/pl/p/Mysz-DELL-MS116MS-116/7286" price="32" avail="1" stock="150" basket="1">
+  <o id="7286" url="https://kompre.pl/pl/p/Mysz-DELL-MS116MS-116/7286" price="32" avail="1" stock="149" basket="1">
     <cat>Akcesoria komputerowe</cat>
     <name>Mysz DELL MS116/MS-116</name>
     <desc>"Mysz DELL MS116/MS-116" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -997,7 +997,7 @@
       <a name="Typ">Wewnętrzny</a>
     </attrs>
   </o>
-  <o id="7426" url="https://kompre.pl/pl/p/Torba-Esperanza-Classic/7426" price="30" avail="1" stock="15" basket="1">
+  <o id="7426" url="https://kompre.pl/pl/p/Torba-Esperanza-Classic/7426" price="30" avail="1" stock="14" basket="1">
     <cat>Torby na laptopa</cat>
     <name>Torba Esperanza Classic</name>
     <desc>"Torba Esperanza Classic" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -3133,7 +3133,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9636" url="https://kompre.pl/pl/p/Nowa-Bateria-do-HP-EliteBook-745-755-840-850-G1-G2-CM03XL/9636" price="99" avail="1" stock="34" basket="1">
+  <o id="9636" url="https://kompre.pl/pl/p/Nowa-Bateria-do-HP-EliteBook-745-755-840-850-G1-G2-CM03XL/9636" price="99" avail="1" stock="33" basket="1">
     <cat>Baterie do laptopów</cat>
     <name>Nowa Bateria do HP EliteBook 745 755 840 850 G1 G2 | CM03XL</name>
     <desc>"Nowa Bateria do HP EliteBook 745 755 840 850 G1 G2 | CM03XL" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -5834,6 +5834,25 @@
       <a name="Producent">Niezdefiniowany</a>
       <a name="SKU">17493131263</a>
       <a name="Gwarancja">3 miesiące</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Rodzaj">zamiennik</a>
+    </attrs>
+  </o>
+  <o id="9870" url="https://kompre.pl/pl/p/Ladowarka-do-laptopa-Zasilacz-Uniwersalny-USB-C-65W-NOWY/9870" price="55" avail="1" stock="100" basket="1">
+    <cat>Zasilacze do laptopów</cat>
+    <name>Ładowarka do laptopa | Zasilacz Uniwersalny USB-C 65W | NOWY</name>
+    <desc>"Ładowarka do laptopa | Zasilacz Uniwersalny USB-C 65W | NOWY" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/99069.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99070.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99071.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99072.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99073.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">Niezdefiniowany</a>
+      <a name="SKU">17007342984</a>
+      <a name="Gwarancja">12 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Rodzaj">zamiennik</a>
     </attrs>
