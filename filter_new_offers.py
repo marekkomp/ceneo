@@ -10,7 +10,7 @@ SOURCE_URL = os.getenv("SOURCE_URL", "https://kompre.esolu-hub.pl/storage/feeds/
 OUT_FILE = "ceneo.xml"
 
 # Minimalna cena (zł)
-MIN_PRICE = float(os.getenv("MIN_PRICE", "100"))
+MIN_PRICE = float(os.getenv("MIN_PRICE", "120"))
 
 # Frazy, które oznaczają faktycznie NOWY produkt
 GOOD_PATTERNS = [
