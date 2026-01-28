@@ -9,6 +9,9 @@ SOURCE_URL = os.getenv("SOURCE_URL", "https://kompre.esolu-hub.pl/storage/feeds/
 # Plik wyjściowy
 OUT_FILE = "ceneo.xml"
 
+# Minimalna cena (zł)
+MIN_PRICE = float(os.getenv("MIN_PRICE", "100"))
+
 # Frazy, które oznaczają faktycznie NOWY produkt
 GOOD_PATTERNS = [
     r"\bnowy\b",
@@ -29,6 +32,17 @@ BAD_PATTERNS = [
     r"odnowiony",
     r"refurbished",
 ]
+
+
+def parse_price(raw: str) -> float:
+    """Bezpieczne parsowanie ceny z atrybutu price (obsługa ',' i '.'), fallback = 0.0"""
+    if raw is None:
+        return 0.0
+    s = str(raw).strip().replace(",", ".")
+    try:
+        return float(s)
+    except ValueError:
+        return 0.0
 
 
 def is_new_offer(offer: ET.Element) -> bool:
@@ -88,8 +102,13 @@ def main():
         is_available = (stock_val > 0) and (avail_raw == "1")
         # ----------------------------
 
-        # Zostają tylko NOWE + dostępne
-        if is_available and is_new_offer(o):
+        # ---- filtr ceny ----
+        price_val = parse_price(o.get("price"))
+        is_price_ok = price_val > MIN_PRICE  # tylko droższe niż MIN_PRICE
+        # --------------------
+
+        # Zostają tylko: dostępne + NOWE + cena > 100 zł
+        if is_available and is_price_ok and is_new_offer(o):
             kept += 1
         else:
             root.remove(o)
