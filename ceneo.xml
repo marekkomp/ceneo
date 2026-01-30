@@ -1245,7 +1245,7 @@
       <a name="Przeznaczenie">IBM, Lenovo</a>
     </attrs>
   </o>
-  <o id="9781" url="https://kompre.pl/pl/p/Podswietlana-Klawiatura-Lenovo-ThinkPad-T570-T580/9781" price="169" avail="1" stock="15" basket="1">
+  <o id="9781" url="https://kompre.pl/pl/p/Podswietlana-Klawiatura-Lenovo-ThinkPad-T570-T580/9781" price="169" avail="1" stock="14" basket="1">
     <cat>Klawiatury do laptopów</cat>
     <name>Podświetlana Klawiatura Lenovo ThinkPad T570 T580</name>
     <desc>"Podświetlana Klawiatura Lenovo ThinkPad T570 T580" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1872,7 +1872,7 @@
     <attrs>
       <a name="Producent">PHILIPS</a>
       <a name="SKU">E090-741C6</a>
-      <a name="Atrybut 1083 (Grupa 58)">60 Hz</a>
+      <a name="Częstotliwość odświeżania">60 Hz</a>
       <a name="Ekran dotykowy">Nie</a>
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Informacje dodatkowe">ze złączem dokującym USB-C</a>
@@ -1916,7 +1916,7 @@
     <attrs>
       <a name="Producent">DELL</a>
       <a name="SKU">5954419</a>
-      <a name="Atrybut 1083 (Grupa 58)">100 Hz</a>
+      <a name="Częstotliwość odświeżania">100 Hz</a>
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Informacje dodatkowe">Podstawka z ekspozycji powystawowa (możliwe minimalne otarcia)</a>
       <a name="Jasność matrycy">250</a>
@@ -1953,7 +1953,7 @@
     <attrs>
       <a name="Producent">DELL</a>
       <a name="SKU">5954414</a>
-      <a name="Atrybut 1083 (Grupa 58)">60 Hz</a>
+      <a name="Częstotliwość odświeżania">60 Hz</a>
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Jasność matrycy">250</a>
       <a name="Kąt widzenia">178/178</a>
@@ -2134,7 +2134,7 @@
     <attrs>
       <a name="Producent">DELL</a>
       <a name="SKU">5954419_20251202125821</a>
-      <a name="Atrybut 1083 (Grupa 58)">100 Hz</a>
+      <a name="Częstotliwość odświeżania">100 Hz</a>
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Jasność matrycy">250</a>
       <a name="Kąt widzenia">178/178</a>
@@ -2170,7 +2170,7 @@
     <attrs>
       <a name="Producent">PHILIPS</a>
       <a name="SKU">4642_20251202141824</a>
-      <a name="Atrybut 1083 (Grupa 58)">60 Hz</a>
+      <a name="Częstotliwość odświeżania">60 Hz</a>
       <a name="Ekran dotykowy">Nie</a>
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Jasność matrycy">250</a>
@@ -2195,10 +2195,17 @@
     <cat>Monitory</cat>
     <name>Monitor Lenovo ThinkVision P27q-30 27' 2560x1440 IPS / PLS 4ms USB 3.2 HDMI DP [Nowy]</name>
     <desc>"Monitor Lenovo ThinkVision P27q-30 27' 2560x1440 IPS / PLS 4ms USB 3.2 HDMI DP [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/102147.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102145.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102146.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102148.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102149.png" />
+    </imgs>
     <attrs>
       <a name="Producent">LENOVO</a>
       <a name="SKU">5918_20260127141416</a>
-      <a name="Atrybut 1083 (Grupa 58)">60 Hz</a>
+      <a name="Częstotliwość odświeżania">60 Hz</a>
       <a name="Ekran dotykowy">Nie</a>
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Jasność matrycy">350</a>
