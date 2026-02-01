@@ -1193,7 +1193,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9767" url="https://kompre.pl/pl/p/Bateria-do-Lenovo-ThinkPad-T470-T480-01AV452-61-/9767" price="165" avail="1" stock="40" basket="1">
+  <o id="9767" url="https://kompre.pl/pl/p/Bateria-do-Lenovo-ThinkPad-T470-T480-01AV452-61-/9767" price="159" avail="1" stock="40" basket="1">
     <cat>Baterie do laptopów</cat>
     <name>Bateria do Lenovo ThinkPad T470 T480 | 01AV452 | 61+</name>
     <desc>"Bateria do Lenovo ThinkPad T470 T480 | 01AV452 | 61+" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1695,6 +1695,26 @@
       <a name="Kondycja">Nowy</a>
       <a name="Napięcie">11.25</a>
       <a name="Pojemność">8000.0</a>
+      <a name="Rodzaj">zamiennik</a>
+    </attrs>
+  </o>
+  <o id="9890" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-7280-7290-7380-7390-7480-7490-F3YGT/9890" price="149" avail="1" stock="200" basket="1">
+    <cat>Baterie do laptopów</cat>
+    <name>Bateria do Dell Latitude 7280 7290 7380 7390 7480 7490 | F3YGT</name>
+    <desc>"Bateria do Dell Latitude 7280 7290 7380 7390 7480 7490 | F3YGT" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/99160.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99161.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99162.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99163.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99164.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">Niezdefiniowany</a>
+      <a name="SKU">14897287486</a>
+      <a name="Gwarancja">6 miesięcy</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Napięcie">7.6</a>
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
