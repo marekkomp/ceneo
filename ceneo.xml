@@ -1917,7 +1917,7 @@
       <a name="Złącza zewnętrzne">     DisplayPort 1.4 x 1, HDMI 2.0 x 2, USB-C 3.1 1 generacji x 1 (typu upstream, funkcja zasilania do 65 W), USB 3.0 x 4 (typu downstream, 1 z funkcją szybkiego ładowania BC 1.2)*</a>
     </attrs>
   </o>
-  <o id="10058" url="https://kompre.pl/pl/p/Monitor-Dell-P2425HE-23%2C8-1920x1080-IPS-USB-C-STACJA-DOKUJACA-HDMI-DP-100-Hz-Nowy/10058" price="599" avail="1" stock="43" basket="1">
+  <o id="10058" url="https://kompre.pl/pl/p/Monitor-Dell-P2425HE-23%2C8-1920x1080-IPS-USB-C-STACJA-DOKUJACA-HDMI-DP-100-Hz-Nowy/10058" price="599" avail="1" stock="42" basket="1">
     <cat>Monitory</cat>
     <name>Monitor Dell P2425HE 23,8' 1920x1080 IPS USB-C STACJA DOKUJĄCA HDMI DP 100 Hz [Nowy]</name>
     <desc>"Monitor Dell P2425HE 23,8' 1920x1080 IPS USB-C STACJA DOKUJĄCA HDMI DP 100 Hz [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -2252,4 +2252,4 @@
       <a name="Złącza zewnętrzne">Kensington Security Slot , USB 3.2 Gen 1      Power connector , USB 3.2 Gen 1 (BC)      HDMI 2.1 TMDS , Audio line-out (3.5mm)      DisplayPort 1.4 ,USB 3.2 Gen 1      DisplayPort out , USB 3.2 Gen 1      USB-B 3.2 Gen 1</a>
     </attrs>
   </o>
-</offers>
+  </offers>
