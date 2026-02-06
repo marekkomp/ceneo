@@ -873,7 +873,7 @@
       <a name="Przeznaczenie">HP, Compaq</a>
     </attrs>
   </o>
-  <o id="9665" url="https://kompre.pl/pl/p/Nowa-Podswietlana-Klawiatura-do-HP-EliteBook-745-840-G5-G6-Zbook-14u-G5-G6/9665" price="139" avail="1" stock="48" basket="1">
+  <o id="9665" url="https://kompre.pl/pl/p/Nowa-Podswietlana-Klawiatura-do-HP-EliteBook-745-840-G5-G6-Zbook-14u-G5-G6/9665" price="139" avail="1" stock="47" basket="1">
     <cat>Klawiatury do laptopów</cat>
     <name>Nowa Podświetlana Klawiatura do HP EliteBook 745 840 G5 G6 Zbook 14u G5 G6</name>
     <desc>"Nowa Podświetlana Klawiatura do HP EliteBook 745 840 G5 G6 Zbook 14u G5 G6" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -2208,4 +2208,35 @@
       <a name="Złącza zewnętrzne">Kensington Security Slot , USB 3.2 Gen 1      Power connector , USB 3.2 Gen 1 (BC)      HDMI 2.1 TMDS , Audio line-out (3.5mm)      DisplayPort 1.4 ,USB 3.2 Gen 1      DisplayPort out , USB 3.2 Gen 1      USB-B 3.2 Gen 1</a>
     </attrs>
   </o>
-  </offers>
+  <o id="10196" url="https://kompre.pl/pl/p/NOWY-KOMPUTER-GAMINGOWY-Chieftec-AMD-Ryzen-7-5700X-32GB-1TB-NVME-RTX-5060-WIN-11-Nowy/10196" price="4899" avail="1" stock="16" basket="1">
+    <cat>Komputery</cat>
+    <name>NOWY KOMPUTER GAMINGOWY Chieftec AMD Ryzen 7 5700X 32GB 1TB NVME RTX 5060 WIN 11 [Nowy]</name>
+    <desc>"NOWY KOMPUTER GAMINGOWY Chieftec AMD Ryzen 7 5700X 32GB 1TB NVME RTX 5060 WIN 11 [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <attrs>
+      <a name="Producent">Niezdefiniowany</a>
+      <a name="SKU">10362Ryzen</a>
+      <a name="Dysk">1TB</a>
+      <a name="Gniazdo procesora">AM4</a>
+      <a name="Gwarancja">24 miesiące</a>
+      <a name="Ilość pamięci RAM">32GB</a>
+      <a name="Ilość rdzeni">8</a>
+      <a name="Informacje dodatkowe">AMD Ryzen 7 5700X 8x3.40-4.60GHz </a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Licencja">Windows 11 Home</a>
+      <a name="Model">Chieftec Obudowa GS-02B-OP Hunter 2</a>
+      <a name="Model karty graficznej">NOWA GeForce RTX 5060 8GB</a>
+      <a name="Napęd">Beznapędowy</a>
+      <a name="Obudowa">Tower</a>
+      <a name="Rodzaj karty graficznej">Dedykowana</a>
+      <a name="Seria procesora">Inny AMD</a>
+      <a name="Stan obudowy">Nowy</a>
+      <a name="Typ dysku">SSD</a>
+      <a name="Typ Licencji">OEM</a>
+      <a name="Typ pamięci RAM">DDR4</a>
+      <a name="W zestawie">Brak okablowania</a>
+      <a name="Zainstalowany System">Windows 11 HOME</a>
+      <a name="Złącza wewnętrzne">1 x mikrofon 1 x słuchawki 1 x USB 3.0 1 x USB Typ C</a>
+      <a name="Złącza z tyłu">PS2: 1 VGA: 1 (15-pin DB) HDMI: 1 (HDMI (Typ A)) DisplayPort: 1 USB 2.0: 2 (USB 2.0 (typ A)) USB 3.2 Gen 2: 1 (USB 3.2 (type A)), 1 (USB 3.2 (type C)) USB 3.2 Gen 1: 4 (USB 3.2 (type A)) LAN: 1 (RJ45) Interfejs Audio: 3 (3.5mm minijack)</a>
+    </attrs>
+  </o>
+</offers>
