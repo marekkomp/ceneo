@@ -944,25 +944,6 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9688" url="https://kompre.pl/pl/p/Klapa-Matrycy-do-HP-ProBook-650-655-G2/9688" price="139" avail="1" stock="19" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Klapa Matrycy do HP ProBook 650 655 G2</name>
-    <desc>"Klapa Matrycy do HP ProBook 650 655 G2" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98272.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98273.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98274.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98275.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98276.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">HP</a>
-      <a name="SKU">15044042475</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
   <o id="9693" url="https://kompre.pl/pl/p/Ramka-Matrycy-do-HP-ProBook-650-G4-G5-L09579-001/9693" price="139" avail="1" stock="35" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Ramka Matrycy do HP ProBook 650 G4 G5 | L09579-001</name>
@@ -2212,6 +2193,15 @@
     <cat>Komputery</cat>
     <name>NOWY KOMPUTER GAMINGOWY Chieftec AMD Ryzen 7 5700X 32GB 1TB NVME RTX 5060 WIN 11 [Nowy]</name>
     <desc>"NOWY KOMPUTER GAMINGOWY Chieftec AMD Ryzen 7 5700X 32GB 1TB NVME RTX 5060 WIN 11 [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/102234.png" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102229.png" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102232.png" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102233.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102235.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102236.png" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/102237.jpg" />
+    </imgs>
     <attrs>
       <a name="Producent">Niezdefiniowany</a>
       <a name="SKU">10362Ryzen</a>
