@@ -1664,7 +1664,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9887" url="https://kompre.pl/pl/p/Bateria-do-Lenovo-ThinkPad-P50-P51-P52-77-00NY493/9887" price="265" avail="1" stock="21" basket="1">
+  <o id="9887" url="https://kompre.pl/pl/p/Bateria-do-Lenovo-ThinkPad-P50-P51-P52-77-00NY493/9887" price="265" avail="1" stock="20" basket="1">
     <cat>Baterie do laptopów</cat>
     <name>Bateria do Lenovo ThinkPad P50 P51 P52 | +77 | 00NY493</name>
     <desc>"Bateria do Lenovo ThinkPad P50 P51 P52 | +77 | 00NY493" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -2120,39 +2120,6 @@
       <a name="W zestawie">Przewód zasilający</a>
       <a name="Wbudowany głośnik">Tak</a>
       <a name="Złącza zewnętrzne">AC-in (wejście zasilania) - 1 szt., DisplayPort 1.2 - 2 szt., HDMI 1.4 - 1 szt., VGA - 1 szt.</a>
-    </attrs>
-  </o>
-  <o id="10150" url="https://kompre.pl/pl/p/Monitor-LED-Philips-243V7QDAB00-23%2C8-1920x1080-px-IPS-GLOSNIKI-HDMI-VGA-Nowy-/10150" price="389" avail="1" stock="25" basket="1">
-    <cat>Monitory</cat>
-    <name>Monitor LED Philips 243V7QDAB/00 23,8" 1920x1080 px IPS GŁOŚNIKI HDMI VGA [Nowy] </name>
-    <desc>"Monitor LED Philips 243V7QDAB/00 23,8" 1920x1080 px IPS GŁOŚNIKI HDMI VGA [Nowy] " Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/101703.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/101704.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/101705.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">PHILIPS</a>
-      <a name="SKU">4642_20251202141824</a>
-      <a name="Częstotliwość odświeżania">60 Hz</a>
-      <a name="Ekran dotykowy">Nie</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Jasność matrycy">250</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Kontrast">1000:1</a>
-      <a name="Model">V-line 243V7QJABF/00</a>
-      <a name="Podświetlenie">LED</a>
-      <a name="Powłoka matrycy">Matowa</a>
-      <a name="Przekątna ekranu">24"</a>
-      <a name="Regulacja kąta nachylenia">Tak</a>
-      <a name="Regulacja wysokości">Tak</a>
-      <a name="Rozdzielczość ekranu">1920 x 1080</a>
-      <a name="Stan ekranu">Brak wad</a>
-      <a name="Stopa w komplecie">Tak</a>
-      <a name="Typ matrycy">IPS / PLS</a>
-      <a name="W zestawie">Brak okablowania</a>
-      <a name="Wbudowany głośnik">TAK</a>
-      <a name="Złącza zewnętrzne">D-Sub DisplayPort HDMI</a>
     </attrs>
   </o>
   <o id="10188" url="https://kompre.pl/pl/p/Monitor-Lenovo-ThinkVision-P27q-30-27-2560x1440-IPS-PLS-4ms-USB-3.2-HDMI-DP-Nowy/10188" price="1099" avail="1" stock="50" basket="1">
