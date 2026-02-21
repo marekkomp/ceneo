@@ -1,26 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
-  <o id="6417" url="https://kompre.pl/pl/p/Dolna-Pokrywa-T450s/6417" price="159" avail="1" stock="4" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Dolna Pokrywa T450s</name>
-    <desc>"Dolna Pokrywa T450s" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/79279.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79280.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79281.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79282.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79283.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79284.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">Niezdefiniowany</a>
-      <a name="SKU">3863</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Model">ThinkPad T450s</a>
-      <a name="Przeznaczenie">Lenovo ThinkPad T450s</a>
-    </attrs>
-  </o>
   <o id="6437" url="https://kompre.pl/pl/p/Klapa-Matrycy-HP-840-G1/6437" price="169" avail="1" stock="49" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Klapa Matrycy HP 840 G1</name>
@@ -37,87 +16,6 @@
       <a name="Kondycja">Nowy</a>
       <a name="Model">EliteBook 840 G1</a>
       <a name="Przeznaczenie">HP EliteBook 840 G1</a>
-    </attrs>
-  </o>
-  <o id="6492" url="https://kompre.pl/pl/p/Bateria-Dell-Inspiron-15/6492" price="127" avail="1" stock="87" basket="1">
-    <cat>Baterie do laptopów</cat>
-    <name>Bateria Dell Inspiron 15</name>
-    <desc>"Bateria Dell Inspiron 15" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/79622.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79623.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">Niezdefiniowany</a>
-      <a name="SKU">4300</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Model">DL59 B22 - fabrycznie nowy zamiennik</a>
-      <a name="Napięcie">14.8V (14.4V)</a>
-      <a name="Pojemność">2200 mAh (33Wh)</a>
-      <a name="Przeznaczenie">Bateria Dell Inspiron 15-3565, 14-3443, 14-7447, 15-3567, 15-3552, 5459, 5558, 5559</a>
-      <a name="Rodzaj">Zamiennik</a>
-      <a name="Typ">Li-ion</a>
-    </attrs>
-  </o>
-  <o id="6799" url="https://kompre.pl/pl/p/Dolna-Pokrywa-Lenovo-T460/6799" price="159" avail="1" stock="4" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Dolna Pokrywa Lenovo T460</name>
-    <desc>"Dolna Pokrywa Lenovo T460" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/80924.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/80925.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/80926.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/80927.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/80928.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">Niezdefiniowany</a>
-      <a name="SKU">6024</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Model">ThinkPad T460</a>
-      <a name="Przeznaczenie">Lenovo ThinkPad T460</a>
-    </attrs>
-  </o>
-  <o id="6822" url="https://kompre.pl/pl/p/Dolna-Pokrywa-T460s/6822" price="159" avail="1" stock="19" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Dolna Pokrywa T460s</name>
-    <desc>"Dolna Pokrywa T460s" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/81026.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/81027.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/81028.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/81029.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">Niezdefiniowany</a>
-      <a name="SKU">6170</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Model">ThinkPad T460s</a>
-      <a name="Przeznaczenie">Lenovo ThinkPad T460s</a>
-    </attrs>
-  </o>
-  <o id="6832" url="https://kompre.pl/pl/p/Dolna-Obudowa-Dell-E5450/6832" price="149" avail="1" stock="22" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Dolna Obudowa Dell E5450</name>
-    <desc>"Dolna Obudowa Dell E5450" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/81072.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/81073.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/81074.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/81075.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/81076.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/81077.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">Niezdefiniowany</a>
-      <a name="SKU">6231</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Model">Latitude E5450</a>
-      <a name="Przeznaczenie">Dell Latitude E5450</a>
     </attrs>
   </o>
   <o id="7020" url="https://kompre.pl/pl/p/Komputer-Do-Gier-32GB-480GB-Tower-NOWA-GeForce-RTX-3050-8GB-Nowy/7020" price="3699" avail="1" stock="36" basket="1">
@@ -293,7 +191,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9472" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-5280-5480-5490-5590-GJKNX/9472" price="140" avail="1" stock="59" basket="1">
+  <o id="9472" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-5280-5480-5490-5590-GJKNX/9472" price="140" avail="1" stock="4" basket="1">
     <cat>Baterie do laptopów</cat>
     <name>Bateria do Dell Latitude 5280 5480 5490 5590 | GJKNX</name>
     <desc>"Bateria do Dell Latitude 5280 5480 5490 5590 | GJKNX" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -306,26 +204,6 @@
     <attrs>
       <a name="Producent">DELL</a>
       <a name="SKU">14795052809</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Napięcie">7.6</a>
-      <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
-  <o id="9473" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-E7270-E7470-J60J5/9473" price="149" avail="1" stock="5" basket="1">
-    <cat>Baterie do laptopów</cat>
-    <name>Bateria do Dell Latitude E7270 E7470 | J60J5</name>
-    <desc>"Bateria do Dell Latitude E7270 E7470 | J60J5" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97415.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97416.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97417.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97418.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97419.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">15655520474</a>
       <a name="Gwarancja">6 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Napięcie">7.6</a>
@@ -591,7 +469,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9601" url="https://kompre.pl/pl/p/Klapa-matrycy-do-Dell-Latitude-7300-011KC9/9601" price="169" avail="1" stock="29" basket="1">
+  <o id="9601" url="https://kompre.pl/pl/p/Klapa-matrycy-do-Dell-Latitude-7300-011KC9/9601" price="159" avail="1" stock="29" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Klapa matrycy do Dell Latitude 7300 | 011KC9</name>
     <desc>"Klapa matrycy do Dell Latitude 7300 | 011KC9" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -757,7 +635,7 @@
       <a name="Przeznaczenie">HP, Compaq</a>
     </attrs>
   </o>
-  <o id="9649" url="https://kompre.pl/pl/p/Nowy-Palmrest-Klawiatura-Podswietlana-do-HP-EliteBook-840-845-G7-G8/9649" price="269" avail="1" stock="31" basket="1">
+  <o id="9649" url="https://kompre.pl/pl/p/Nowy-Palmrest-Klawiatura-Podswietlana-do-HP-EliteBook-840-845-G7-G8/9649" price="255" avail="1" stock="20" basket="1">
     <cat>Klawiatury do laptopów</cat>
     <name>Nowy Palmrest Klawiatura Podświetlana do HP EliteBook 840 845 G7 G8</name>
     <desc>"Nowy Palmrest Klawiatura Podświetlana do HP EliteBook 840 845 G7 G8" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -812,28 +690,6 @@
       <a name="Kondycja">Nowy</a>
       <a name="Przeznaczenie">HP ZBook 15 G1 G2 17 G1 G2</a>
       <a name="Układ">QWERTY PL (US) - bez podświetlenia, trackpoint</a>
-    </attrs>
-  </o>
-  <o id="9655" url="https://kompre.pl/pl/p/Nowa-Podswietlana-Klawiatura-HP-850-G3-srebrna/9655" price="139" avail="1" stock="3" basket="1">
-    <cat>Klawiatury do laptopów</cat>
-    <name>Nowa Podświetlana Klawiatura HP 850 G3 - srebrna</name>
-    <desc>"Nowa Podświetlana Klawiatura HP 850 G3 - srebrna" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98137.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98138.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98139.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98140.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98141.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98142.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98143.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98144.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">HP</a>
-      <a name="SKU">13854635968</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Przeznaczenie">HP, Compaq</a>
     </attrs>
   </o>
   <o id="9658" url="https://kompre.pl/pl/p/Nowa-Klawiatura-Podswietlana-do-HP-ProBook-650-655-G4-G5/9658" price="159" avail="1" stock="20" basket="1">
@@ -1385,7 +1241,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9804" url="https://kompre.pl/pl/p/Nowa-Klapa-Matrycy-Lenovo-L540-FHD/9804" price="169" avail="1" stock="17" basket="1">
+  <o id="9804" url="https://kompre.pl/pl/p/Nowa-Klapa-Matrycy-Lenovo-L540-FHD/9804" price="159" avail="1" stock="17" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Nowa Klapa Matrycy Lenovo L540 FHD</name>
     <desc>"Nowa Klapa Matrycy Lenovo L540 FHD" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1454,7 +1310,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9818" url="https://kompre.pl/pl/p/Palmrest-do-Lenovo-ThinkPad-P52/9818" price="279" avail="1" stock="17" basket="1">
+  <o id="9818" url="https://kompre.pl/pl/p/Palmrest-do-Lenovo-ThinkPad-P52/9818" price="269" avail="1" stock="17" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Palmrest do Lenovo ThinkPad P52</name>
     <desc>"Palmrest do Lenovo ThinkPad P52" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1523,24 +1379,6 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9828" url="https://kompre.pl/pl/p/Nowy-Palmrest-Lenovo-ThinkPad-T490/9828" price="209" avail="1" stock="38" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Nowy Palmrest Lenovo ThinkPad T490</name>
-    <desc>"Nowy Palmrest Lenovo ThinkPad T490" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98865.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98866.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98867.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98868.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98869.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">LENOVO</a>
-      <a name="SKU">14870831682</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-    </attrs>
-  </o>
   <o id="9830" url="https://kompre.pl/pl/p/Dolna-Pokrywa-Zaslepka-do-Lenovo-ThinkPad-P53/9830" price="199" avail="1" stock="5" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Dolna Pokrywa Zaślepka do Lenovo ThinkPad P53</name>
@@ -1575,7 +1413,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9836" url="https://kompre.pl/pl/p/Nowy-Palmrest-do-Lenovo-ThinkPad-L580-L590/9836" price="259" avail="1" stock="93" basket="1">
+  <o id="9836" url="https://kompre.pl/pl/p/Nowy-Palmrest-do-Lenovo-ThinkPad-L580-L590/9836" price="245" avail="1" stock="20" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Nowy Palmrest do Lenovo ThinkPad L580 L590</name>
     <desc>"Nowy Palmrest do Lenovo ThinkPad L580 L590" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1590,25 +1428,6 @@
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
-  <o id="9847" url="https://kompre.pl/pl/p/Nowy-Oryginalny-Zasilacz-Lenovo-USB-C-95W/9847" price="135" avail="1" stock="10" basket="1">
-    <cat>Zasilacze do laptopów</cat>
-    <name>Nowy Oryginalny Zasilacz Lenovo USB-C 95W</name>
-    <desc>"Nowy Oryginalny Zasilacz Lenovo USB-C 95W" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98957.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98958.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98959.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98960.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98961.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98962.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">LENOVO</a>
-      <a name="SKU">13988428341</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
   <o id="9850" url="https://kompre.pl/pl/p/Nowa-Ramka-Matrycy-do-Lenovo-ThinkPad-L15-1-gen./9850" price="165" avail="1" stock="20" basket="1">
@@ -1706,7 +1525,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9891" url="https://kompre.pl/pl/p/Podswietlana-Klawiatura-Lenovo-ThinkPad-T590-T15/9891" price="173" avail="1" stock="8" basket="1">
+  <o id="9891" url="https://kompre.pl/pl/p/Podswietlana-Klawiatura-Lenovo-ThinkPad-T590-T15/9891" price="169" avail="1" stock="8" basket="1">
     <cat>Klawiatury do laptopów</cat>
     <name>Podświetlana Klawiatura Lenovo ThinkPad T590 T15</name>
     <desc>"Podświetlana Klawiatura Lenovo ThinkPad T590 T15" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
