@@ -451,7 +451,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9584" url="https://kompre.pl/pl/p/Nowy-Zasilacz-USB-C-Dell-130W/9584" price="245" avail="1" stock="1" basket="1">
+  <o id="9584" url="https://kompre.pl/pl/p/Nowy-Zasilacz-USB-C-Dell-130W/9584" price="245" avail="1" stock="50" basket="1">
     <cat>Zasilacze do laptopów</cat>
     <name>Nowy Zasilacz USB-C Dell 130W</name>
     <desc>"Nowy Zasilacz USB-C Dell 130W" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -466,7 +466,12 @@
       <a name="Producent">DELL</a>
       <a name="SKU">15457854152</a>
       <a name="Gwarancja">12 miesięcy</a>
+      <a name="Informacje Dodatkowe">Brak przewodu zasilającego w zestawie!</a>
+      <a name="Interfejs">USB-C</a>
+      <a name="Kolor">Czarny</a>
       <a name="Kondycja">Nowy</a>
+      <a name="Moc">130W</a>
+      <a name="Model">DA130PM170</a>
     </attrs>
   </o>
   <o id="9601" url="https://kompre.pl/pl/p/Klapa-matrycy-do-Dell-Latitude-7300-011KC9/9601" price="159" avail="1" stock="29" basket="1">
@@ -1685,7 +1690,7 @@
       <a name="Złącza z tyłu">2xUSB 3.0, 4x USB 2.0, VGA, 3x Audio, RJ45, PS2, HDMI</a>
     </attrs>
   </o>
-  <o id="10043" url="https://kompre.pl/pl/p/Monitor-LED-Philips-328P6VUBREB00-32-3840x2160-VA-Stacja-dokujaca-USB-C-Nowy/10043" price="899" avail="1" stock="90" basket="1">
+  <o id="10043" url="https://kompre.pl/pl/p/Monitor-LED-Philips-328P6VUBREB00-32-3840x2160-VA-Stacja-dokujaca-USB-C-Nowy/10043" price="899" avail="1" stock="84" basket="1">
     <cat>Monitory</cat>
     <name>Monitor LED Philips 328P6VUBREB00 32' 3840x2160 VA Stacja dokująca USB-C [Nowy]</name>
     <desc>"Monitor LED Philips 328P6VUBREB00 32' 3840x2160 VA Stacja dokująca USB-C [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
