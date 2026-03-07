@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
-  <o id="6437" url="https://kompre.pl/pl/p/Klapa-Matrycy-HP-840-G1/6437" price="169" avail="1" stock="49" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Klapa Matrycy HP 840 G1</name>
-    <desc>"Klapa Matrycy HP 840 G1" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/79367.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79368.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79369.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">Niezdefiniowany</a>
-      <a name="SKU">3969</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Model">EliteBook 840 G1</a>
-      <a name="Przeznaczenie">HP EliteBook 840 G1</a>
-    </attrs>
-  </o>
   <o id="7020" url="https://kompre.pl/pl/p/Komputer-Do-Gier-32GB-480GB-Tower-NOWA-GeForce-RTX-3050-8GB-Nowy/7020" price="3699" avail="1" stock="36" basket="1">
     <cat>Komputery</cat>
     <name>Komputer Do Gier 32GB 480GB Tower NOWA GeForce RTX 3050 8GB [Nowy]</name>
@@ -191,25 +173,6 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9472" url="https://kompre.pl/pl/p/Bateria-do-Dell-Latitude-5280-5480-5490-5590-GJKNX/9472" price="140" avail="1" stock="4" basket="1">
-    <cat>Baterie do laptopów</cat>
-    <name>Bateria do Dell Latitude 5280 5480 5490 5590 | GJKNX</name>
-    <desc>"Bateria do Dell Latitude 5280 5480 5490 5590 | GJKNX" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97411.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97412.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97413.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97414.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">14795052809</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Napięcie">7.6</a>
-      <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
   <o id="9492" url="https://kompre.pl/pl/p/Matryca-14-HD-TN-40pin-NT140WHM-N47-Lenovo-T430-Dell-E5440-E5450/9492" price="125" avail="1" stock="10" basket="1">
     <cat>Matryce do laptopów</cat>
     <name>Matryca 14" | HD TN | 40pin | NT140WHM-N47 | Lenovo T430 Dell E5440 E5450</name>
@@ -280,7 +243,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9537" url="https://kompre.pl/pl/p/Dolna-Pokrywa-do-Dell-Latitude-5480-5490-0TCMWR/9537" price="139" avail="1" stock="65" basket="1">
+  <o id="9537" url="https://kompre.pl/pl/p/Dolna-Pokrywa-do-Dell-Latitude-5480-5490-0TCMWR/9537" price="139" avail="1" stock="39" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Dolna Pokrywa do Dell Latitude 5480 5490 | 0TCMWR</name>
     <desc>"Dolna Pokrywa do Dell Latitude 5480 5490 | 0TCMWR" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
