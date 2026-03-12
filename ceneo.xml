@@ -568,7 +568,7 @@
       <a name="Przeznaczenie">HP, Compaq</a>
     </attrs>
   </o>
-  <o id="9649" url="https://kompre.pl/pl/p/Nowy-Palmrest-Klawiatura-Podswietlana-do-HP-EliteBook-840-845-G7-G8/9649" price="289" avail="1" stock="29" basket="1">
+  <o id="9649" url="https://kompre.pl/pl/p/Nowy-Palmrest-Klawiatura-Podswietlana-do-HP-EliteBook-840-845-G7-G8/9649" price="289" avail="1" stock="28" basket="1">
     <cat>Klawiatury do laptopów</cat>
     <name>Nowy Palmrest Klawiatura Podświetlana do HP EliteBook 840 845 G7 G8</name>
     <desc>"Nowy Palmrest Klawiatura Podświetlana do HP EliteBook 840 845 G7 G8" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1081,7 +1081,7 @@
       <a name="Przeznaczenie">IBM, Lenovo</a>
     </attrs>
   </o>
-  <o id="9788" url="https://kompre.pl/pl/p/Nowa-Klawiatura-do-Lenovo-ThinkPad-L590-L580-E590-T590-E580/9788" price="165" avail="1" stock="30" basket="1">
+  <o id="9788" url="https://kompre.pl/pl/p/Nowa-Klawiatura-do-Lenovo-ThinkPad-L590-L580-E590-T590-E580/9788" price="165" avail="1" stock="18" basket="1">
     <cat>Klawiatury do laptopów</cat>
     <name>Nowa Klawiatura do Lenovo ThinkPad L590 L580 E590 T590 E580</name>
     <desc>"Nowa Klawiatura do Lenovo ThinkPad L590 L580 E590 T590 E580" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1419,25 +1419,6 @@
       <a name="Kondycja">Nowy</a>
       <a name="Napięcie">7.6</a>
       <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
-  <o id="9891" url="https://kompre.pl/pl/p/Podswietlana-Klawiatura-Lenovo-ThinkPad-T590-T15/9891" price="169" avail="1" stock="7" basket="1">
-    <cat>Klawiatury do laptopów</cat>
-    <name>Podświetlana Klawiatura Lenovo ThinkPad T590 T15</name>
-    <desc>"Podświetlana Klawiatura Lenovo ThinkPad T590 T15" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/99165.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99166.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99167.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99168.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99169.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">Niezdefiniowany</a>
-      <a name="SKU">14065758276</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Przeznaczenie">IBM, Lenovo</a>
     </attrs>
   </o>
   <o id="9896" url="https://kompre.pl/pl/p/Matryca-15%2C6-HD-TN-40pin-N156BGE-L11-HP-6560B-Dell-E5530-Lenovo-T530/9896" price="125" avail="1" stock="43" basket="1">
@@ -1783,41 +1764,6 @@
       <a name="Przeznaczenie">Latitude 3510</a>
       <a name="Rodzaj">zamiennik</a>
       <a name="Układ">QWERTY PL (US) - podświetlana bez trackpoint</a>
-    </attrs>
-  </o>
-  <o id="10149" url="https://kompre.pl/pl/p/Monitor-LED-Dell-E2225HSM-21%2C5-1920-x-1080-px-VA-HDMI-DISPLAYPORT-100Hz-Glosniki-Nowy-/10149" price="395" avail="1" stock="1" basket="1">
-    <cat>Monitory</cat>
-    <name>Monitor LED Dell E2225HSM 21,5 " 1920 x 1080 px VA HDMI DISPLAYPORT 100Hz Głośniki [Nowy] </name>
-    <desc>"Monitor LED Dell E2225HSM 21,5 " 1920 x 1080 px VA HDMI DISPLAYPORT 100Hz Głośniki [Nowy] " Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/101701.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/101702.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">5954419_20251202125821</a>
-      <a name="Częstotliwość odświeżania">100 Hz</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Jasność matrycy">250</a>
-      <a name="Kąt widzenia">178/178</a>
-      <a name="Kolor">czarny</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Kontrast">1500:1</a>
-      <a name="Model"> E2225HSM</a>
-      <a name="Pivot">Tak</a>
-      <a name="Podświetlenie">LED</a>
-      <a name="Powłoka matrycy">Matowa</a>
-      <a name="Przekątna ekranu">21,5"</a>
-      <a name="Regulacja kąta nachylenia">Tak</a>
-      <a name="Regulacja wysokości">Tak</a>
-      <a name="Rozdzielczość ekranu">1920 x 1080</a>
-      <a name="Stan ekranu">Nowy</a>
-      <a name="Stan obudowy">Nowy</a>
-      <a name="Stopa w komplecie">Tak</a>
-      <a name="Typ matrycy">IPS / PLS</a>
-      <a name="W zestawie">Przewód zasilający</a>
-      <a name="Wbudowany głośnik">Tak</a>
-      <a name="Złącza zewnętrzne">AC-in (wejście zasilania) - 1 szt., DisplayPort 1.2 - 2 szt., HDMI 1.4 - 1 szt., VGA - 1 szt.</a>
     </attrs>
   </o>
   <o id="10188" url="https://kompre.pl/pl/p/Monitor-Lenovo-ThinkVision-P27q-30-27-2560x1440-IPS-PLS-4ms-USB-3.2-HDMI-DP-Nowy/10188" price="1099" avail="1" stock="50" basket="1">
