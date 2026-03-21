@@ -1544,7 +1544,7 @@
       <a name="Złącza z tyłu">2xUSB 3.0, 4x USB 2.0, VGA, 3x Audio, RJ45, PS2, HDMI</a>
     </attrs>
   </o>
-  <o id="10043" url="https://kompre.pl/pl/p/Monitor-LED-Philips-328P6VUBREB00-32-3840x2160-VA-Stacja-dokujaca-USB-C-Nowy/10043" price="899" avail="1" stock="83" basket="1">
+  <o id="10043" url="https://kompre.pl/pl/p/Monitor-LED-Philips-328P6VUBREB00-32-3840x2160-VA-Stacja-dokujaca-USB-C-Nowy/10043" price="899" avail="1" stock="82" basket="1">
     <cat>Monitory</cat>
     <name>Monitor LED Philips 328P6VUBREB00 32' 3840x2160 VA Stacja dokująca USB-C [Nowy]</name>
     <desc>"Monitor LED Philips 328P6VUBREB00 32' 3840x2160 VA Stacja dokująca USB-C [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1581,42 +1581,6 @@
       <a name="W zestawie">Okablowanie</a>
       <a name="Wbudowany głośnik">TAK 2X3W</a>
       <a name="Złącza zewnętrzne">     DisplayPort 1.4 x 1, HDMI 2.0 x 2, USB-C 3.1 1 generacji x 1 (typu upstream, funkcja zasilania do 65 W), USB 3.0 x 4 (typu downstream, 1 z funkcją szybkiego ładowania BC 1.2)*</a>
-    </attrs>
-  </o>
-  <o id="10059" url="https://kompre.pl/pl/p/Monitor-Dell-E2425HS-23%2C8-LED-1920-x-1080-VA-HDMI%2C-DP%2C-VGA-Nowy/10059" price="399" avail="1" stock="5" basket="1">
-    <cat>Monitory</cat>
-    <name>Monitor Dell E2425HS 23,8'' LED 1920 x 1080 VA | HDMI, DP, VGA | [Nowy]</name>
-    <desc>"Monitor Dell E2425HS 23,8'' LED 1920 x 1080 VA | HDMI, DP, VGA | [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/100888.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/100886.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/100887.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">5954414</a>
-      <a name="Częstotliwość odświeżania">60 Hz</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Jasność matrycy">250</a>
-      <a name="Kąt widzenia">178/178</a>
-      <a name="Kolor">czarny</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Kontrast">1500:1</a>
-      <a name="Model">E2425HS</a>
-      <a name="Pivot">Nie</a>
-      <a name="Podświetlenie">LED</a>
-      <a name="Powłoka matrycy">Matowa</a>
-      <a name="Przekątna ekranu">24"</a>
-      <a name="Regulacja kąta nachylenia">Tak</a>
-      <a name="Regulacja wysokości">Tak</a>
-      <a name="Rozdzielczość ekranu">1920 x 1080</a>
-      <a name="Stan ekranu">Nowy</a>
-      <a name="Stan obudowy">Nowy</a>
-      <a name="Stopa w komplecie">Tak</a>
-      <a name="Typ matrycy">IPS / PLS</a>
-      <a name="W zestawie">Przewód zasilający, kabel HDMI</a>
-      <a name="Wbudowany głośnik">TAK</a>
-      <a name="Złącza zewnętrzne">Złącza: AC-in (wejście zasilania) - 1 szt., DisplayPort 1.2 - 1 szt., HDMI 1.4 - 1 szt., 1 szt. VGA - 1 szt.</a>
     </attrs>
   </o>
   <o id="10076" url="https://kompre.pl/pl/p/Nowa-Dolna-Pokrywa-Lenovo-ThinkPad-T480-A485/10076" price="165" avail="1" stock="50" basket="1">
@@ -1705,7 +1669,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="10125" url="https://kompre.pl/pl/p/Matryca-13%2C3-FHD-IPS-30pin-Dell-Latitude-5300-5310-5320-B133HAN05.K/10125" price="319" avail="1" stock="50" basket="1">
+  <o id="10125" url="https://kompre.pl/pl/p/Matryca-13%2C3-FHD-IPS-30pin-Dell-Latitude-5300-5310-5320-B133HAN05.K/10125" price="319" avail="1" stock="20" basket="1">
     <cat>Matryce do laptopów</cat>
     <name>Matryca 13,3" | FHD IPS 30pin | Dell Latitude 5300 5310 5320 | B133HAN05.K</name>
     <desc>"Matryca 13,3" | FHD IPS 30pin | Dell Latitude 5300 5310 5320 | B133HAN05.K" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1748,7 +1712,7 @@
       <a name="Układ">QWERTY PL (US) - podświetlana bez trackpoint</a>
     </attrs>
   </o>
-  <o id="10188" url="https://kompre.pl/pl/p/Monitor-Lenovo-ThinkVision-P27q-30-27-2560x1440-IPS-PLS-4ms-USB-3.2-HDMI-DP-Nowy/10188" price="1099" avail="1" stock="49" basket="1">
+  <o id="10188" url="https://kompre.pl/pl/p/Monitor-Lenovo-ThinkVision-P27q-30-27-2560x1440-IPS-PLS-4ms-USB-3.2-HDMI-DP-Nowy/10188" price="949" avail="1" stock="49" basket="1">
     <cat>Monitory</cat>
     <name>Monitor Lenovo ThinkVision P27q-30 27' 2560x1440 IPS / PLS 4ms USB 3.2 HDMI DP [Nowy]</name>
     <desc>"Monitor Lenovo ThinkVision P27q-30 27' 2560x1440 IPS / PLS 4ms USB 3.2 HDMI DP [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
