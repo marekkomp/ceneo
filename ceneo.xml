@@ -62,7 +62,7 @@
       <a name="Złącza z tyłu">4xUSB 3.0, 2x USB 2.0, VGA, 3x Audio, RJ45, 2PS2, DVI</a>
     </attrs>
   </o>
-  <o id="8836" url="https://kompre.pl/pl/p/Nowy-Komputer-Do-Gier-Logic-32GB-1TB-i5-12400F-RTX-3050-8GB%2C-Tower-Nowy/8836" price="3699" avail="1" stock="18" basket="1">
+  <o id="8836" url="https://kompre.pl/pl/p/Nowy-Komputer-Do-Gier-Logic-32GB-1TB-i5-12400F-RTX-3050-8GB%2C-Tower-Nowy/8836" price="3699" avail="1" stock="17" basket="1">
     <cat>Komputery</cat>
     <name>Nowy Komputer Do Gier Logic 32GB 1TB  i5 – 12400F RTX 3050 8GB, Tower [Nowy]</name>
     <desc>"Nowy Komputer Do Gier Logic 32GB 1TB  i5 – 12400F RTX 3050 8GB, Tower [Nowy]" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -736,6 +736,27 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
+  <o id="9688" url="https://kompre.pl/pl/p/Klapa-Matrycy-do-HP-ProBook-650-655-G2-G3/9688" price="125" avail="1" stock="50" basket="1">
+    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
+    <name>Klapa Matrycy do HP ProBook 650 655 G2 G3</name>
+    <desc>"Klapa Matrycy do HP ProBook 650 655 G2 G3" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98272.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98273.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98274.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98275.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98276.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/103096.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/103097.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">HP</a>
+      <a name="SKU">15044042475</a>
+      <a name="Gwarancja">12 miesięcy</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Rodzaj">zamiennik</a>
+    </attrs>
+  </o>
   <o id="9693" url="https://kompre.pl/pl/p/Ramka-Matrycy-do-HP-ProBook-650-G4-G5-L09579-001/9693" price="130" avail="1" stock="22" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Ramka Matrycy do HP ProBook 650 G4 G5 | L09579-001</name>
@@ -1271,25 +1292,6 @@
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
-  <o id="9850" url="https://kompre.pl/pl/p/Nowa-Ramka-Matrycy-do-Lenovo-ThinkPad-L15-1-gen./9850" price="165" avail="1" stock="20" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Nowa Ramka Matrycy do Lenovo ThinkPad L15 1 gen.</name>
-    <desc>"Nowa Ramka Matrycy do Lenovo ThinkPad L15 1 gen." Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98974.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98975.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98976.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98977.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98978.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">LENOVO</a>
-      <a name="SKU">17495629900</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Rodzaj">oryginał</a>
     </attrs>
   </o>
   <o id="9851" url="https://kompre.pl/pl/p/Nowa-Dolna-Pokrywa-Lenovo-ThinkPad-L15-1-gen./9851" price="245" avail="1" stock="20" basket="1">
