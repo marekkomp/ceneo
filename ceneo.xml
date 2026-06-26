@@ -685,7 +685,7 @@
       <a name="Układ">QWERTY PL (US) - bez podświetlenia, trackpoint</a>
     </attrs>
   </o>
-  <o id="9658" url="https://kompre.pl/pl/p/Nowa-Klawiatura-Podswietlana-do-HP-ProBook-650-655-G4-G5/9658" price="159" avail="1" stock="20" basket="1">
+  <o id="9658" url="https://kompre.pl/pl/p/Nowa-Klawiatura-Podswietlana-do-HP-ProBook-650-655-G4-G5/9658" price="159" avail="1" stock="19" basket="1">
     <cat>Klawiatury do laptopów</cat>
     <name>Nowa Klawiatura Podświetlana do HP ProBook 650 655 G4 G5</name>
     <desc>"Nowa Klawiatura Podświetlana do HP ProBook 650 655 G4 G5" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -794,7 +794,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9688" url="https://kompre.pl/pl/p/Klapa-Matrycy-do-HP-ProBook-650-655-G2-G3/9688" price="125" avail="1" stock="50" basket="1">
+  <o id="9688" url="https://kompre.pl/pl/p/Klapa-Matrycy-do-HP-ProBook-650-655-G2-G3/9688" price="125" avail="1" stock="49" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Klapa Matrycy do HP ProBook 650 655 G2 G3</name>
     <desc>"Klapa Matrycy do HP ProBook 650 655 G2 G3" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -829,23 +829,6 @@
       <a name="Producent">HP</a>
       <a name="SKU">16115366324</a>
       <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
-  <o id="9695" url="https://kompre.pl/pl/p/Klapa-Matrycy-do-HP-EliteBook-850-G7/9695" price="269" avail="1" stock="4" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Klapa Matrycy do HP EliteBook 850 G7</name>
-    <desc>"Klapa Matrycy do HP EliteBook 850 G7" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98296.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98297.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98298.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">HP</a>
-      <a name="SKU">17422275223</a>
-      <a name="Gwarancja">6 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Rodzaj">zamiennik</a>
     </attrs>
