@@ -938,26 +938,6 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9723" url="https://kompre.pl/pl/p/Nowy-Palmrest-do-HP-EliteBook-745-840-G5-G6/9723" price="125" avail="1" stock="4" basket="1">
-    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
-    <name>Nowy Palmrest do HP EliteBook 745 840 G5 G6</name>
-    <desc>"Nowy Palmrest do HP EliteBook 745 840 G5 G6" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98395.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98396.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98397.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98398.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98399.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98400.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">HP</a>
-      <a name="SKU">15326771365</a>
-      <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Rodzaj">zamiennik</a>
-    </attrs>
-  </o>
   <o id="9724" url="https://kompre.pl/pl/p/Nowy-Palmrest-do-HP-EliteBook-755-850-G5-G6/9724" price="135" avail="1" stock="27" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Nowy Palmrest do HP EliteBook 755 850 G5 G6</name>
@@ -1282,7 +1262,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9831" url="https://kompre.pl/pl/p/Nowy-Palmrest-Lenovo-ThinkPad-T480/9831" price="185" avail="1" stock="55" basket="1">
+  <o id="9831" url="https://kompre.pl/pl/p/Nowy-Palmrest-Lenovo-ThinkPad-T480/9831" price="185" avail="1" stock="54" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Nowy Palmrest Lenovo ThinkPad T480</name>
     <desc>"Nowy Palmrest Lenovo ThinkPad T480" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1295,6 +1275,7 @@
       <a name="Producent">LENOVO</a>
       <a name="SKU">14793496178</a>
       <a name="Gwarancja">6 miesięcy</a>
+      <a name="Informacje Dodatkowe">Brak zaślepki fingerprint w zestawie!</a>
       <a name="Kondycja">Nowy</a>
       <a name="Rodzaj">zamiennik</a>
     </attrs>
