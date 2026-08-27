@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
+  <o id="6415" url="https://kompre.pl/pl/p/Zasilacz-Lenovo-USB-C-USB-C-95W/6415" price="149" avail="1" stock="150" basket="1">
+    <cat>Zasilacze do laptopów</cat>
+    <name>Zasilacz Lenovo USB-C USB-C 95W</name>
+    <desc>"Zasilacz Lenovo USB-C USB-C 95W" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/79269.png" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79270.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79271.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79272.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79273.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79274.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">LENOVO</a>
+      <a name="SKU">3852</a>
+      <a name="Gwarancja">12 miesięcy</a>
+      <a name="Informacje dodatkowe">Brak przewodu zasilającego w zestawie!</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Moc">95W</a>
+      <a name="Model">ADLX95YCC3A i inne kompatybilne</a>
+      <a name="Przeznaczenie">Laptopy Lenovo z portem ładowania USB-C</a>
+      <a name="Rodzaj">Oryginał</a>
+      <a name="Typ">USB-C</a>
+    </attrs>
+  </o>
   <o id="6730" url="https://kompre.pl/pl/p/Oryginalny-Zasilacz-Lenovo-USB-typ-C-65W/6730" price="129" avail="1" stock="2" basket="1">
     <cat>Zasilacze do laptopów</cat>
     <name>Oryginalny Zasilacz Lenovo USB typ C 65W</name>
@@ -390,29 +415,6 @@
       <a name="SKU">16888776639</a>
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Kondycja">Nowy</a>
-    </attrs>
-  </o>
-  <o id="9584" url="https://kompre.pl/pl/p/Nowy-Zasilacz-USB-C-Dell-130W/9584" price="188" avail="1" stock="50" basket="1">
-    <cat>Zasilacze do laptopów</cat>
-    <name>Nowy Zasilacz USB-C Dell 130W</name>
-    <desc>"Nowy Zasilacz USB-C Dell 130W" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97827.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97828.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97829.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97830.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97831.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">15457854152</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Informacje Dodatkowe">Brak przewodu zasilającego w zestawie!</a>
-      <a name="Interfejs">USB-C</a>
-      <a name="Kolor">Czarny</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Moc">130W</a>
-      <a name="Model">DA130PM170</a>
     </attrs>
   </o>
   <o id="9601" url="https://kompre.pl/pl/p/Klapa-matrycy-do-Dell-Latitude-7300-011KC9/9601" price="145" avail="1" stock="29" basket="1">
