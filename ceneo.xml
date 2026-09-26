@@ -407,6 +407,22 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
+  <o id="9554" url="https://kompre.pl/pl/p/Dolna-Pokrywa-do-Dell-Latitude-5580-5590-0R58R6/9554" price="129" avail="1" stock="24" basket="1">
+    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
+    <name>Dolna Pokrywa do Dell Latitude 5580 5590 | 0R58R6</name>
+    <desc>"Dolna Pokrywa do Dell Latitude 5580 5590 | 0R58R6" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97711.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97712.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97713.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">DELL</a>
+      <a name="SKU">15868100622</a>
+      <a name="Gwarancja">6 miesięcy</a>
+      <a name="Kondycja">Nowy</a>
+    </attrs>
+  </o>
   <o id="9555" url="https://kompre.pl/pl/p/Palmrest-do-Dell-Latitude-3500-0XPXMR/9555" price="169" avail="1" stock="27" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Palmrest do Dell Latitude 3500 | 0XPXMR</name>
@@ -702,23 +718,6 @@
       <a name="Producent">HP</a>
       <a name="SKU">14925305918</a>
       <a name="Gwarancja">6 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Przeznaczenie">HP, Compaq</a>
-    </attrs>
-  </o>
-  <o id="9665" url="https://kompre.pl/pl/p/Nowa-Podswietlana-Klawiatura-do-HP-EliteBook-745-840-G5-G6-Zbook-14u-G5-G6/9665" price="139" avail="1" stock="1" basket="1">
-    <cat>Klawiatury do laptopów</cat>
-    <name>Nowa Podświetlana Klawiatura do HP EliteBook 745 840 G5 G6 Zbook 14u G5 G6</name>
-    <desc>"Nowa Podświetlana Klawiatura do HP EliteBook 745 840 G5 G6 Zbook 14u G5 G6" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98183.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98184.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98185.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">HP</a>
-      <a name="SKU">15031340574</a>
-      <a name="Gwarancja">12 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Przeznaczenie">HP, Compaq</a>
     </attrs>
@@ -1250,7 +1249,7 @@
       <a name="Rodzaj">oryginał</a>
     </attrs>
   </o>
-  <o id="9860" url="https://kompre.pl/pl/p/Glosniki-do-Apple-MacBook-A1707-Komplet-Lewy-i-Prawy/9860" price="165" avail="1" stock="25" basket="1">
+  <o id="9860" url="https://kompre.pl/pl/p/Glosniki-do-Apple-MacBook-A1707-Komplet-Lewy-i-Prawy/9860" price="150" avail="1" stock="25" basket="1">
     <cat>Głośniki</cat>
     <name>Głośniki do Apple MacBook A1707 | Komplet Lewy i Prawy</name>
     <desc>"Głośniki do Apple MacBook A1707 | Komplet Lewy i Prawy" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1265,6 +1264,31 @@
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Rodzaj">zamiennik</a>
+    </attrs>
+  </o>
+  <o id="9897" url="https://kompre.pl/pl/p/Matryca-15%2C6-FHD-IPS-30pin-Dell-E5550-5580-5590-HP-650-G2/9897" price="149" avail="1" stock="94" basket="1">
+    <cat>Matryce do laptopów</cat>
+    <name>Matryca 15,6" FHD IPS | 30pin | Dell E5550 5580 5590 HP 650 G2</name>
+    <desc>"Matryca 15,6" FHD IPS | 30pin | Dell E5550 5580 5590 HP 650 G2" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/105374.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99189.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99190.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/99191.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105370.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105371.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105372.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105373.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">Niezdefiniowany</a>
+      <a name="SKU">13814514400</a>
+      <a name="Gwarancja">12 miesięcy</a>
+      <a name="Informacje Dodatkowe">Mocowanie: Bez uchwytów (No Brackets)</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Model">MNF601BS1-1</a>
+      <a name="Przeznaczenie">Dell Latitude E5550 Dell Latitude E5570 Dell Latitude 5580 Dell Latitude 5590 Lenovo ThinkPad T590 HP EliteBook 850 G5 / G4 / G3 HP EliteBook 855 G5 HP ProBook 650 G1 / G2 HP 250 G8 / G9 HP 255 G8 / G9</a>
+      <a name="Rodzaj">FHD IPS 30pin eDP</a>
     </attrs>
   </o>
   <o id="9900" url="https://kompre.pl/pl/p/Nowa-Klapa-Matrycy-do-Dell-Latitude-5320-0GR18W/9900" price="175" avail="1" stock="14" basket="1">
@@ -1677,6 +1701,112 @@
       <a name="Rodzaj">zamiennik</a>
       <a name="Stan obudowy">Fabrycznie nowy, bez wad</a>
       <a name="Układ">QWERTY PL (US) - bez trackpointa oraz podświetlenia</a>
+    </attrs>
+  </o>
+  <o id="10450" url="https://kompre.pl/pl/p/Dolna-Pokrywa-Obudowa-do-HP-EliteBook-840-845-G7-G8/10450" price="245" avail="1" stock="26" basket="1">
+    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
+    <name>Dolna Pokrywa Obudowa do HP EliteBook 840 845 G7 G8</name>
+    <desc>"Dolna Pokrywa Obudowa do HP EliteBook 840 845 G7 G8" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/105389.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105390.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105391.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">HP</a>
+      <a name="SKU">18302559525</a>
+      <a name="Gwarancja">12 miesięcy</a>
+      <a name="Kolor">Srebrny</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Model">M07095-001</a>
+      <a name="Przeznaczenie">HP EliteBook 840 845 G7 G8</a>
+      <a name="Rodzaj">Zamiennik</a>
+      <a name="Stan obudowy">Fabrycznie nowy </a>
+    </attrs>
+  </o>
+  <o id="10452" url="https://kompre.pl/pl/p/Klapa-matrycy-do-HP-Probook-450-455-G8-G9-650-655-G8-G9/10452" price="169" avail="1" stock="30" basket="1">
+    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
+    <name>Klapa matrycy do HP Probook 450 455 G8 G9 650 655 G8 G9</name>
+    <desc>"Klapa matrycy do HP Probook 450 455 G8 G9 650 655 G8 G9" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/105399.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105400.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105401.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105402.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105403.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">HP</a>
+      <a name="SKU">18857324124</a>
+      <a name="Gwarancja">12 miesięcy</a>
+      <a name="Informacje Dodatkowe">Bez elektroniki</a>
+      <a name="Kolor">Srebrny</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Model">52X8TLCTP04</a>
+      <a name="Przeznaczenie">Probook 450 455 G8 G9 650 G8 G9</a>
+      <a name="Rodzaj">zamiennik</a>
+      <a name="Stan obudowy">Fabrycznie nowy, bez wad</a>
+    </attrs>
+  </o>
+  <o id="10454" url="https://kompre.pl/pl/p/Palmrest-do-Dell-Latitude-5500-Precision-3540-A18994/10454" price="130" avail="1" stock="41" basket="1">
+    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
+    <name>Palmrest do Dell Latitude 5500 Precision 3540 | A18994</name>
+    <desc>"Palmrest do Dell Latitude 5500 Precision 3540 | A18994" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/105412.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105413.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105414.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105415.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105416.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">DELL</a>
+      <a name="SKU">18652646185</a>
+      <a name="Gwarancja">12 miesięcy</a>
+      <a name="Informacje Dodatkowe">Brak elektroniki w zestawie!</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Model">A18994</a>
+      <a name="Przeznaczenie">Dell Latitude 5500 Precision 3540</a>
+      <a name="Rodzaj">zamiennik</a>
+      <a name="Stan obudowy">Fabrycznie nowy</a>
+    </attrs>
+  </o>
+  <o id="10455" url="https://kompre.pl/pl/p/Dolna-Pokrywa-do-Dell-Latitude-5580-0KK73C/10455" price="139" avail="1" stock="29" basket="1">
+    <cat>Obudowy, ramki i zaślepki do laptopów</cat>
+    <name>Dolna Pokrywa do Dell Latitude 5580 | 0KK73C</name>
+    <desc>"Dolna Pokrywa do Dell Latitude 5580 | 0KK73C" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/105420.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105421.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105422.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">DELL</a>
+      <a name="SKU">18540728229</a>
+      <a name="Gwarancja">6 miesięcy</a>
+      <a name="Kondycja">Nowy</a>
+    </attrs>
+  </o>
+  <o id="10456" url="https://kompre.pl/pl/p/Matryca-15%2C6-FHD-IPS-30pin-MNF156BS-B01DELL-LATITUDE-5500-HP-ELITEBOOK-850-G7/10456" price="159" avail="1" stock="90" basket="1">
+    <cat>Matryce do laptopów</cat>
+    <name>Matryca 15,6" FHD IPS | 30pin |MNF156BS-B01|DELL LATITUDE 5500 HP ELITEBOOK 850 G7</name>
+    <desc>"Matryca 15,6" FHD IPS | 30pin |MNF156BS-B01|DELL LATITUDE 5500 HP ELITEBOOK 850 G7" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/105427.png" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105423.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105424.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105425.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105426.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">Niezdefiniowany</a>
+      <a name="SKU">18954943717_20260924115833</a>
+      <a name="Gwarancja">12 miesięcy</a>
+      <a name="Informacje Dodatkowe">Mocowanie: Bez uchwytów (No Brackets)</a>
+      <a name="Kondycja">Nowy</a>
+      <a name="Model">MNF156BS1-B01</a>
+      <a name="Przeznaczenie">DELL LATITUDE 5500 DELL LATITUDE 5501 DELL LATITUDE 5520 HP ELITEBOOK 850 G7 HP ELITEBOOK 850 G8 HP ELITEBOOK 450 G8 HP ELITEBOOK 450 G9</a>
+      <a name="Rodzaj">FHD IPS 30pin eDP</a>
     </attrs>
   </o>
   </offers>
