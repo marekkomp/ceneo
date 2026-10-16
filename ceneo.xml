@@ -605,9 +605,10 @@
     <name>Nowa Bateria do HP EliteBook 720 725 820 G3 G4 | SN03XL</name>
     <desc>"Nowa Bateria do HP EliteBook 720 725 820 G3 G4 | SN03XL" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
     <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98065.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98066.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98067.jpg" />
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/105962.png" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105966.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105967.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105968.jpg" />
     </imgs>
     <attrs>
       <a name="Producent">HP</a>
@@ -615,7 +616,7 @@
       <a name="Gwarancja">6 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Napięcie">11.55</a>
-      <a name="Pojemność">4100.0</a>
+      <a name="Pojemność">2700 mAh 31Wh</a>
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
