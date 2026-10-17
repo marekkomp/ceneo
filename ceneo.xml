@@ -1,30 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
-  <o id="6415" url="https://kompre.pl/pl/p/Zasilacz-Lenovo-USB-C-USB-C-95W/6415" price="149" avail="1" stock="150" basket="1">
-    <cat>Zasilacze do laptopów</cat>
-    <name>Zasilacz Lenovo USB-C USB-C 95W</name>
-    <desc>"Zasilacz Lenovo USB-C USB-C 95W" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/79269.png" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79270.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79271.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79272.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79273.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/79274.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">LENOVO</a>
-      <a name="SKU">3852</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Informacje dodatkowe">Brak przewodu zasilającego w zestawie!</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Moc">95W</a>
-      <a name="Model">ADLX95YCC3A i inne kompatybilne</a>
-      <a name="Przeznaczenie">Laptopy Lenovo z portem ładowania USB-C</a>
-      <a name="Rodzaj">Oryginał</a>
-      <a name="Typ">USB-C</a>
-    </attrs>
-  </o>
   <o id="6730" url="https://kompre.pl/pl/p/Oryginalny-Zasilacz-Lenovo-USB-typ-C-65W/6730" price="129" avail="1" stock="2" basket="1">
     <cat>Zasilacze do laptopów</cat>
     <name>Oryginalny Zasilacz Lenovo USB typ C 65W</name>
@@ -1113,7 +1088,7 @@
       <a name="Kondycja">Nowy</a>
     </attrs>
   </o>
-  <o id="9812" url="https://kompre.pl/pl/p/Nowa-Klapa-Matrycy-Lenovo-ThinkPad-T490/9812" price="125" avail="1" stock="33" basket="1">
+  <o id="9812" url="https://kompre.pl/pl/p/Nowa-Klapa-Matrycy-Lenovo-ThinkPad-T490/9812" price="125" avail="1" stock="15" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Nowa Klapa Matrycy Lenovo ThinkPad T490</name>
     <desc>"Nowa Klapa Matrycy Lenovo ThinkPad T490" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1285,7 +1260,7 @@
       <a name="Rodzaj">oryginał</a>
     </attrs>
   </o>
-  <o id="9860" url="https://kompre.pl/pl/p/Glosniki-do-Apple-MacBook-A1707-Komplet-Lewy-i-Prawy/9860" price="150" avail="1" stock="25" basket="1">
+  <o id="9860" url="https://kompre.pl/pl/p/Glosniki-do-Apple-MacBook-A1707-Komplet-Lewy-i-Prawy/9860" price="145" avail="1" stock="25" basket="1">
     <cat>Głośniki</cat>
     <name>Głośniki do Apple MacBook A1707 | Komplet Lewy i Prawy</name>
     <desc>"Głośniki do Apple MacBook A1707 | Komplet Lewy i Prawy" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
