@@ -750,7 +750,7 @@
       <a name="Przeznaczenie">Kompatybilne m.in. z: HP Zbook 17 G3 G4 HP ProBook 470 G3 G4 G5 Dell Precision 7710 7720 7730</a>
     </attrs>
   </o>
-  <o id="9684" url="https://kompre.pl/pl/p/Nowa-Klapa-Matrycy-do-HP-EliteBook-745-G5-840-G5/9684" price="149" avail="1" stock="25" basket="1">
+  <o id="9684" url="https://kompre.pl/pl/p/Nowa-Klapa-Matrycy-do-HP-EliteBook-745-G5-840-G5/9684" price="149" avail="1" stock="2" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Nowa Klapa Matrycy do HP EliteBook 745 G5 840 G5</name>
     <desc>"Nowa Klapa Matrycy do HP EliteBook 745 G5 840 G5" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1208,7 +1208,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9831" url="https://kompre.pl/pl/p/Nowy-Palmrest-Lenovo-ThinkPad-T480/9831" price="185" avail="1" stock="54" basket="1">
+  <o id="9831" url="https://kompre.pl/pl/p/Nowy-Palmrest-Lenovo-ThinkPad-T480/9831" price="185" avail="1" stock="53" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Nowy Palmrest Lenovo ThinkPad T480</name>
     <desc>"Nowy Palmrest Lenovo ThinkPad T480" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1782,4 +1782,55 @@
       <a name="Rodzaj">FHD IPS 30pin eDP</a>
     </attrs>
   </o>
-  </offers>
+  <o id="10508" url="https://kompre.pl/pl/p/Nowy-Dotykowy-Tablet-Microsoft-Surface-GO-3-1926-i3-10100-8GB-128GB-SSD-10%2C1-1920-x-1080-Windows-11-/10508" price="1049" avail="1" stock="7" basket="1">
+    <cat>Tablety</cat>
+    <name>[Nowy] Dotykowy Tablet Microsoft Surface GO 3 1926 | i3 10100 | 8GB 128GB SSD | 10,1" 1920 x 1080 | Windows 11 </name>
+    <desc>"[Nowy] Dotykowy Tablet Microsoft Surface GO 3 1926 | i3 10100 | 8GB 128GB SSD | 10,1" 1920 x 1080 | Windows 11 " Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
+    <imgs>
+      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/106005.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105992.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/106000.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105991.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/106002.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/106001.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105993.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105994.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105995.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105996.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105998.jpg" />
+      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105999.jpg" />
+    </imgs>
+    <attrs>
+      <a name="Producent">Microsoft</a>
+      <a name="SKU">5764_20261016124631</a>
+      <a name="Bateria">Nowa oryginalna</a>
+      <a name="Dysk">128GB</a>
+      <a name="Ekran dotykowy">Tak</a>
+      <a name="Gwarancja sprzedawcy">12 miesięcy</a>
+      <a name="Ilość pamięci RAM">8GB</a>
+      <a name="Ilość rdzeni">2</a>
+      <a name="Informacje dodatkowe">Brak rysika, brak klawiatury</a>
+      <a name="Kamera">Tak, wbudowana</a>
+      <a name="Klawiatura (ISO lub ANSI)">Brak</a>
+      <a name="Kondycja sprzętu">Nowy</a>
+      <a name="Licencja">Windows 11 Pro</a>
+      <a name="Model">Surface Go 3 1926</a>
+      <a name="Model karty graficznej"> Intel UHD Graphics for 10th Gen Intel Processors</a>
+      <a name="Powłoka matrycy">Błyszcząca</a>
+      <a name="Procesor">i3-10110U, 4MB Cache, 10 gen.</a>
+      <a name="Przekątna ekranu">10,5"</a>
+      <a name="Rodzaj karty graficznej">Zintegrowana</a>
+      <a name="Rozdzielczość ekranu">1920 x 1080</a>
+      <a name="Seria procesora">Intel Core i3</a>
+      <a name="Stan ekranu">Nowy</a>
+      <a name="Stan obudowy">Nowy</a>
+      <a name="Taktowanie">2.10 - 4.10 GHz</a>
+      <a name="Typ dysku">SSD</a>
+      <a name="Typ licencji">OEM</a>
+      <a name="Typ pamięci RAM">DDR4</a>
+      <a name="W zestawie">Oryginalny zasilacz z przewodem</a>
+      <a name="Zainstalowany system">Windows 11 Pro</a>
+      <a name="Złącza zewnętrzne">USB C, Audio</a>
+    </attrs>
+  </o>
+</offers>
