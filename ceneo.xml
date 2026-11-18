@@ -317,7 +317,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9537" url="https://kompre.pl/pl/p/Dolna-Pokrywa-do-Dell-Latitude-5480-5490-0TCMWR/9537" price="129" avail="1" stock="28" basket="1">
+  <o id="9537" url="https://kompre.pl/pl/p/Dolna-Pokrywa-do-Dell-Latitude-5480-5490-0TCMWR/9537" price="129" avail="1" stock="16" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Dolna Pokrywa do Dell Latitude 5480 5490 | 0TCMWR</name>
     <desc>"Dolna Pokrywa do Dell Latitude 5480 5490 | 0TCMWR" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -415,29 +415,6 @@
       <a name="SKU">16888776639</a>
       <a name="Gwarancja">12 miesięcy</a>
       <a name="Kondycja">Nowy</a>
-    </attrs>
-  </o>
-  <o id="9584" url="https://kompre.pl/pl/p/Nowy-Zasilacz-USB-C-Dell-130W/9584" price="174" avail="1" stock="27" basket="1">
-    <cat>Zasilacze do laptopów</cat>
-    <name>Nowy Zasilacz USB-C Dell 130W</name>
-    <desc>"Nowy Zasilacz USB-C Dell 130W" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/97827.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97828.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97829.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97830.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/97831.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">DELL</a>
-      <a name="SKU">15457854152</a>
-      <a name="Gwarancja">12 miesięcy</a>
-      <a name="Informacje Dodatkowe">Brak przewodu zasilającego w zestawie!</a>
-      <a name="Interfejs">USB-C</a>
-      <a name="Kolor">Czarny</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Moc">130W</a>
-      <a name="Model">DA130PM170</a>
     </attrs>
   </o>
   <o id="9601" url="https://kompre.pl/pl/p/Klapa-matrycy-do-Dell-Latitude-7300-011KC9/9601" price="145" avail="1" stock="28" basket="1">
@@ -648,25 +625,6 @@
       <a name="Producent">HP</a>
       <a name="SKU">16254006921</a>
       <a name="Gwarancja">12 miesięcy</a>
-      <a name="Kondycja">Nowy</a>
-      <a name="Przeznaczenie">HP, Compaq</a>
-    </attrs>
-  </o>
-  <o id="9659" url="https://kompre.pl/pl/p/Nowa-Klawiatura-Podswietlana-do-HP-EliteBook-730-735-830-G5-G6/9659" price="149" avail="1" stock="32" basket="1">
-    <cat>Klawiatury do laptopów</cat>
-    <name>Nowa Klawiatura Podświetlana do HP EliteBook 730 735 830 (G5 G6)</name>
-    <desc>"Nowa Klawiatura Podświetlana do HP EliteBook 730 735 830 (G5 G6)" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/98157.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98158.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98159.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98160.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/98161.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">HP</a>
-      <a name="SKU">14925305918</a>
-      <a name="Gwarancja">6 miesięcy</a>
       <a name="Kondycja">Nowy</a>
       <a name="Przeznaczenie">HP, Compaq</a>
     </attrs>
@@ -1171,7 +1129,7 @@
       <a name="Rodzaj">zamiennik</a>
     </attrs>
   </o>
-  <o id="9830" url="https://kompre.pl/pl/p/Dolna-Pokrywa-Zaslepka-do-Lenovo-ThinkPad-P53/9830" price="145" avail="1" stock="4" basket="1">
+  <o id="9830" url="https://kompre.pl/pl/p/Dolna-Pokrywa-Zaslepka-do-Lenovo-ThinkPad-P53/9830" price="145" avail="1" stock="3" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Dolna Pokrywa Zaślepka do Lenovo ThinkPad P53</name>
     <desc>"Dolna Pokrywa Zaślepka do Lenovo ThinkPad P53" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1595,7 +1553,7 @@
       <a name="Rodzaj">Fabrycznie nowy zamiennik</a>
     </attrs>
   </o>
-  <o id="10425" url="https://kompre.pl/pl/p/Klapa-matrycy-do-HP-Probook-440-445-G8-G9-640-645-G8-G9/10425" price="209" avail="1" stock="23" basket="1">
+  <o id="10425" url="https://kompre.pl/pl/p/Klapa-matrycy-do-HP-Probook-440-445-G8-G9-640-645-G8-G9/10425" price="209" avail="1" stock="22" basket="1">
     <cat>Obudowy, ramki i zaślepki do laptopów</cat>
     <name>Klapa matrycy do HP Probook 440 445 G8 G9 640 645 G8 G9</name>
     <desc>"Klapa matrycy do HP Probook 440 445 G8 G9 640 645 G8 G9" Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
@@ -1769,57 +1727,6 @@
       <a name="Model">MNF156BS1-B01</a>
       <a name="Przeznaczenie">DELL LATITUDE 5500 DELL LATITUDE 5501 DELL LATITUDE 5520 HP ELITEBOOK 850 G7 HP ELITEBOOK 850 G8 HP ELITEBOOK 450 G8 HP ELITEBOOK 450 G9</a>
       <a name="Rodzaj">FHD IPS 30pin eDP</a>
-    </attrs>
-  </o>
-  <o id="10508" url="https://kompre.pl/pl/p/Nowy-Dotykowy-Tablet-Microsoft-Surface-GO-3-1926-i3-10100Y-8GB-128GB-SSD-10%2C1-1920-x-1280-Windows-11-/10508" price="1049" avail="1" stock="1" basket="1">
-    <cat>Tablety</cat>
-    <name>[Nowy] Dotykowy Tablet Microsoft Surface GO 3 1926 | i3 10100Y | 8GB 128GB SSD | 10,1" 1920 x 1280 | Windows 11 </name>
-    <desc>"[Nowy] Dotykowy Tablet Microsoft Surface GO 3 1926 | i3 10100Y | 8GB 128GB SSD | 10,1" 1920 x 1280 | Windows 11 " Otrzymujesz sprzęt, który został dokładnie przetestowany i sprawdzony pod kątem jakości oraz pełnej sprawności. Oferujemy urządzenia klasy biznesowej - zaprojektowane do niezawodnej pracy przez wiele lat. Sprawdzony sprzęt - Każdy egzemplarz przechodzi szereg testów diagnostycznych, czyszczenie i przygotowanie do pracy. Dzięki temu masz pewność, że sprzęt działa tak, jak powinien. Wydajność klasy biznesowej - Oferujemy modele zaprojektowane z myślą o intensywnej, wieloletniej pracy. To nie są urządzenia konsumenckie – to sprzęt stworzony do zadań specjalnych</desc>
-    <imgs>
-      <main url="https://sklep998844.shoparena.pl/userdata/public/gfx/106005.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105992.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/106000.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105991.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/106002.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/106001.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105993.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105994.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105995.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105996.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105998.jpg" />
-      <i url="https://sklep998844.shoparena.pl/userdata/public/gfx/105999.jpg" />
-    </imgs>
-    <attrs>
-      <a name="Producent">Microsoft</a>
-      <a name="SKU">5764_20261016124631</a>
-      <a name="Bateria">Nowa oryginalna</a>
-      <a name="Dysk">128GB</a>
-      <a name="Ekran dotykowy">Tak</a>
-      <a name="Gwarancja sprzedawcy">12 miesięcy</a>
-      <a name="Ilość pamięci RAM">8GB</a>
-      <a name="Ilość rdzeni">2</a>
-      <a name="Informacje dodatkowe">Brak rysika, brak klawiatury</a>
-      <a name="Kamera">Tak, wbudowana</a>
-      <a name="Klawiatura (ISO lub ANSI)">Brak</a>
-      <a name="Kondycja sprzętu">Nowy</a>
-      <a name="Licencja">Windows 11 Pro</a>
-      <a name="Model">Surface Go 3 1926</a>
-      <a name="Model karty graficznej"> Intel UHD Graphics for 10th Gen Intel Processors</a>
-      <a name="Powłoka matrycy">Błyszcząca</a>
-      <a name="Procesor">i3-10100Y, 4MB Cache, 10 gen.</a>
-      <a name="Przekątna ekranu">10,5"</a>
-      <a name="Rodzaj karty graficznej">Zintegrowana</a>
-      <a name="Rozdzielczość ekranu">1920 x 1280</a>
-      <a name="Seria procesora">Intel Core i3</a>
-      <a name="Stan ekranu">Nowy</a>
-      <a name="Stan obudowy">Nowy</a>
-      <a name="Taktowanie">1.30 – 3.90 GHz</a>
-      <a name="Typ dysku">SSD</a>
-      <a name="Typ licencji">OEM</a>
-      <a name="Typ pamięci RAM">DDR4</a>
-      <a name="W zestawie">Oryginalny zasilacz z przewodem</a>
-      <a name="Zainstalowany system">Windows 11 Pro</a>
-      <a name="Złącza zewnętrzne">USB C, Audio</a>
     </attrs>
   </o>
   <o id="10509" url="https://kompre.pl/pl/p/Nowy-Dotykowy-Tablet-Microsoft-Surface-GO-3-1926-i3-10100Y-8GB-128GB-SSD-10%2C1-1920-x-1280-Windows-11-Rysik/10509" price="1099" avail="1" stock="5" basket="1">
